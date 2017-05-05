@@ -6,7 +6,7 @@
     <message>
         <location filename="src/mcedit2/editorapp.py" line="887"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Arr</translation>
     </message>
 </context>
 <context>
@@ -14,12 +14,12 @@
     <message>
         <location filename="src/mcedit2/editorcommands/analyze.py" line="64"/>
         <source>Export as .csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Jettison as .csv</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorcommands/analyze.py" line="80"/>
         <source>Export as .txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Jettison as .txt</translation>
     </message>
 </context>
 <context>
@@ -27,12 +27,12 @@
     <message>
         <location filename="src/mcedit2/editortools/brush/modes.py" line="172"/>
         <source>Biome</source>
-        <translation type="unfinished"></translation>
+        <translation>Biome</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/brush/modes.py" line="173"/>
         <source>Fill Biome:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fill Biome:</translation>
     </message>
 </context>
 <context>
@@ -40,7 +40,7 @@
     <message>
         <location filename="src/mcedit2/widgets/block_replacement_list.py" line="24"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Arr</translation>
     </message>
     <message>
         <location filename="src/mcedit2/widgets/block_replacement_list.py" line="27"/>
