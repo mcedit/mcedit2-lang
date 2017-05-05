@@ -1,0 +1,2906 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: src/mcedit2/editorapp.py:887
+msgid "OK"
+msgstr ""
+
+#: src/mcedit2/editorcommands/analyze.py:64
+msgctxt "AnalyzeOutputDialog|"
+msgid "Export as .csv"
+msgstr ""
+
+#: src/mcedit2/editorcommands/analyze.py:80
+msgctxt "AnalyzeOutputDialog|"
+msgid "Export as .txt"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/modes.py:172
+msgctxt "Biome|"
+msgid "Biome"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/modes.py:173
+msgctxt "Biome|"
+msgid "Fill Biome:"
+msgstr ""
+
+#: src/mcedit2/widgets/block_replacement_list.py:24
+msgctxt "BlockReplacementButton|"
+msgid "OK"
+msgstr ""
+
+#: src/mcedit2/widgets/block_replacement_list.py:27
+msgctxt "BlockReplacementButton|"
+msgid "Choose blocks to replace"
+msgstr ""
+
+#: src/mcedit2/widgets/block_replacement_list.py:33
+msgctxt "BlockReplacementButton|"
+msgid "Advanced..."
+msgstr ""
+
+#: src/mcedit2/widgets/block_replacement_list.py:35
+msgctxt "BlockReplacementButton|"
+msgid "No, simple!"
+msgstr ""
+
+#: src/mcedit2/ui/block_replacements.ui:14
+msgctxt "BlockReplacements|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/block_replacements.ui:33
+msgctxt "BlockReplacements|"
+msgid "Old Blocks"
+msgstr ""
+
+#: src/mcedit2/ui/block_replacements.ui:38
+msgctxt "BlockReplacements|"
+msgid "New Blocks"
+msgstr ""
+
+#: src/mcedit2/widgets/blockpicker_util.py:55
+msgctxt "BlockTypesItemWidget|"
+msgid "No blocks selected"
+msgstr ""
+
+#: src/mcedit2/widgets/prefsdialog/camera.py:18
+msgctxt "CameraPrefs|"
+msgid "Camera View"
+msgstr ""
+
+#: src/mcedit2/widgets/prefsdialog/camera.py:25
+msgctxt "CameraPrefs|"
+msgid "Max View Distance"
+msgstr ""
+
+#: src/mcedit2/worldview/camera.py:48
+msgctxt "CameraWorldViewFrame|"
+msgid "Sticky Mouselook"
+msgstr ""
+
+#: src/mcedit2/worldview/camera.py:66
+msgctxt "CameraWorldViewFrame|"
+msgid "Perspective"
+msgstr ""
+
+#: src/mcedit2/worldview/camera.py:70
+msgctxt "CameraWorldViewFrame|"
+msgid "Show..."
+msgstr ""
+
+#: src/mcedit2/worldview/camera.py:73
+msgctxt "CameraWorldViewFrame|"
+msgid "Work Plane"
+msgstr ""
+
+#: src/mcedit2/worldview/camera.py:88
+msgctxt "CameraWorldViewFrame|"
+msgid "View Distance:"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/chest.py:39
+msgctxt "ChestEditorWidget|"
+msgid "Chest"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/shapes.py:238
+msgctxt "ChunkShape|"
+msgid "Chunk"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:133
+msgctxt "CloneTool|"
+msgid "Confirm"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:140
+msgctxt "CloneTool|"
+msgid "Rotate Repeats"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:143
+msgctxt "CloneTool|"
+msgid "Rotate Offset"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:150
+msgctxt "CloneTool|"
+msgid "Repeat count: "
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:278
+msgctxt "CloneTool|"
+msgid "<Cloned Object>"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:309
+msgctxt "CloneTool|"
+msgid "Pasting..."
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/command.py:23
+msgctxt "CommandBlockEditorWidget|"
+msgid "Custom Name: "
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/command.py:26
+msgctxt "CommandBlockEditorWidget|"
+msgid "Track Output"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/command.py:27
+msgctxt "CommandBlockEditorWidget|"
+msgid "Success Count: "
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/command.py:30
+msgctxt "CommandBlockEditorWidget|"
+msgid "Go To Command"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/command.py:31
+msgctxt "CommandBlockEditorWidget|"
+msgid "Go To Target"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/command.py:32
+msgctxt "CommandBlockEditorWidget|"
+msgid "Go To Indirect Target"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/command.py:37
+msgctxt "CommandBlockEditorWidget|"
+msgid "Command Text:"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/shapes.py:201
+msgctxt "Cylinder|"
+msgid "Cylinder"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/shapes.py:171
+msgctxt "Diamond|"
+msgid "Diamond"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/chest.py:48
+msgctxt "DispenserEditorWidget|"
+msgid "Dispenser"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:186
+msgctxt "EditorSession|"
+msgid "MCEdit %(version)s"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:187
+msgctxt "EditorSession|"
+msgid "This world was not properly closed by MCEdit."
+msgstr ""
+
+#: src/mcedit2/editorsession.py:191
+msgctxt "EditorSession|"
+msgid ""
+"MCEdit may have crashed. An undo history was found for this world. You may "
+"try to resume editing with the saved undo history, or start over with the "
+"current state of the world."
+msgstr ""
+
+#: src/mcedit2/editorsession.py:217
+msgctxt "EditorSession|"
+msgid "Edit"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:232
+msgctxt "EditorSession|"
+msgid "Cut"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:239
+msgctxt "EditorSession|"
+msgid "Copy"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:246
+msgctxt "EditorSession|"
+msgid "Paste"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:253
+msgctxt "EditorSession|"
+msgid "Paste Blocks"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:260
+msgctxt "EditorSession|"
+msgid "Paste Entities"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:270
+msgctxt "EditorSession|"
+msgid "Delete"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:276
+msgctxt "EditorSession|"
+msgid "Delete Blocks"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:283
+msgctxt "EditorSession|"
+msgid "Delete Entities"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:286
+msgctxt "EditorSession|"
+msgid "Delete Entities And Items"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:296
+msgctxt "EditorSession|"
+msgid "Fill"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:306
+msgctxt "EditorSession|"
+msgid "Find Blocks"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:312
+msgctxt "EditorSession|"
+msgid "Find/Replace Blocks"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:319
+msgctxt "EditorSession|"
+msgid "Find/Replace Items"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:325
+msgctxt "EditorSession|"
+msgid "Find/Replace Command Text"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:331
+msgctxt "EditorSession|"
+msgid "Find/Replace NBT Data"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:340
+msgctxt "EditorSession|"
+msgid "Analyze"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:349
+msgctxt "EditorSession|"
+msgid "Select"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:880
+msgctxt "EditorSession|"
+msgid "Select All"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:885
+msgctxt "EditorSession|"
+msgid "Deselect"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:363
+msgctxt "EditorSession|"
+msgid "Import/Export"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:1038
+msgctxt "EditorSession|"
+msgid "Export Schematic"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:369
+msgctxt "EditorSession|"
+msgid "Export Structure Block .nbt"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:960
+msgctxt "EditorSession|"
+msgid "Import"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:376
+msgctxt "EditorSession|"
+msgid "Show Exports Library"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:386
+msgctxt "EditorSession|"
+msgid "Chunk"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:894
+msgctxt "EditorSession|"
+msgid "Delete Chunks"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:389
+msgctxt "EditorSession|"
+msgid "Create Chunks"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:390
+msgctxt "EditorSession|"
+msgid "Mark Chunks For Repopulation"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:392
+msgctxt "EditorSession|"
+msgid "Unmark Chunks For Repopulation"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:435
+msgctxt "EditorSession|"
+msgid "Save"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:526
+msgctxt "EditorSession|"
+msgid "Inspector"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:645
+msgctxt "EditorSession|"
+msgid "(Default)"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:609
+msgctxt "EditorSession|"
+msgid "Changing resource pack..."
+msgstr ""
+
+#: src/mcedit2/editorsession.py:610
+msgctxt "EditorSession|"
+msgid "Changing to resource pack %s"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:626
+msgctxt "EditorSession|"
+msgid "Changing Minecraft version..."
+msgstr ""
+
+#: src/mcedit2/editorsession.py:627
+msgctxt "EditorSession|"
+msgid "Changing to Minecraft version %s"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:641
+msgctxt "EditorSession|"
+msgid "(Not set)"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:641
+msgctxt "EditorSession|"
+msgid "Minecraft Version: %s"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:645
+msgctxt "EditorSession|"
+msgid "Resource Pack: %s"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:808
+msgctxt "EditorSession|"
+msgid "<Pasted Object>"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:905
+msgctxt "EditorSession|"
+msgid "Mark Chunks For Repop"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:917
+msgctxt "EditorSession|"
+msgid "Unmark Chunks For Repop"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:938
+msgctxt "EditorSession|"
+msgid "Dimension: %s"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:991
+msgctxt "EditorSession|"
+msgid "Structure Block Options"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:998
+msgctxt "EditorSession|"
+msgid "Author"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:1003
+msgctxt "EditorSession|"
+msgid "Excluded Blocks"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:1040
+msgctxt "EditorSession|"
+msgid "Structure Block Files"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:1049
+msgctxt "EditorSession|"
+msgid "Exporting structure blocks..."
+msgstr ""
+
+#: src/mcedit2/editorsession.py:1096
+msgctxt "EditorSession|"
+msgid "Import map %(mapID)s"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:1324
+msgctxt "EditorSession|"
+msgid " (read-only)"
+msgstr ""
+
+#: src/mcedit2/editorsession.py:1537
+msgctxt "EditorTab|"
+msgid " Tool Options"
+msgstr ""
+
+#: src/mcedit2/dialogs/error_dialog.py:106
+msgctxt "ErrorDialog|"
+msgid "Uploading to pastebin..."
+msgstr ""
+
+#: src/mcedit2/dialogs/error_dialog.py:119
+msgctxt "ErrorDialog|"
+msgid "Failed to upload to pastebin: "
+msgstr ""
+
+#: src/mcedit2/dialogs/error_dialog.py:127
+msgctxt "ErrorDialog|"
+msgid "Pastebin URL copied to clipboard!"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/modes.py:98
+msgctxt "Fill|"
+msgid "Fill"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/modes.py:99
+msgctxt "Fill|"
+msgid "Fill Block:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_blocks.ui:14
+msgctxt "FindReplaceBlocks|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_blocks.ui:45
+msgctxt "FindReplaceBlocks|"
+msgid "In Selection"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_blocks.ui:55
+msgctxt "FindReplaceBlocks|"
+msgid "Replace"
+msgstr ""
+
+#: src/mcedit2/editortools/flood_fill.py:51
+msgctxt "FloodFillTool|"
+msgid "X+"
+msgstr ""
+
+#: src/mcedit2/editortools/flood_fill.py:52
+msgctxt "FloodFillTool|"
+msgid "X-"
+msgstr ""
+
+#: src/mcedit2/editortools/flood_fill.py:53
+msgctxt "FloodFillTool|"
+msgid "Y+"
+msgstr ""
+
+#: src/mcedit2/editortools/flood_fill.py:54
+msgctxt "FloodFillTool|"
+msgid "Y-"
+msgstr ""
+
+#: src/mcedit2/editortools/flood_fill.py:55
+msgctxt "FloodFillTool|"
+msgid "Z+"
+msgstr ""
+
+#: src/mcedit2/editortools/flood_fill.py:56
+msgctxt "FloodFillTool|"
+msgid "Z-"
+msgstr ""
+
+#: src/mcedit2/editortools/generate.py:188
+msgctxt "GenerateTool|"
+msgid "Generate"
+msgstr ""
+
+#: src/mcedit2/editortools/generate.py:439
+msgctxt "GenerateTool|"
+msgid "Importing generated object..."
+msgstr ""
+
+#: src/mcedit2/editortools/generate.py:442
+msgctxt "GenerateTool|"
+msgid "Generating object in world..."
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/chest.py:55
+msgctxt "HopperEditorWidget|"
+msgid "Hopper"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/__init__.py:246
+msgctxt "InspectorWidget|"
+msgid "(Not set)"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/__init__.py:324
+msgctxt "InspectorWidget|"
+msgid "Change chunk (%s, %s) property TerrainPopulated"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/__init__.py:335
+msgctxt "InspectorWidget|"
+msgid "Change chunk (%s, %s) property LightPopulated"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/__init__.py:346
+msgctxt "InspectorWidget|"
+msgid "Change chunk (%s, %s) property InhabitedTime"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/__init__.py:357
+msgctxt "InspectorWidget|"
+msgid "Change chunk (%s, %s) property LastUpdate"
+msgstr ""
+
+#: src/mcedit2/widgets/inventory.py:455
+msgctxt "InventoryEditor|"
+msgid "Change item type"
+msgstr ""
+
+#: src/mcedit2/widgets/inventory.py:466
+msgctxt "InventoryEditor|"
+msgid "Change item's raw ID"
+msgstr ""
+
+#: src/mcedit2/widgets/inventory.py:477
+msgctxt "InventoryEditor|"
+msgid "Change item damage"
+msgstr ""
+
+#: src/mcedit2/widgets/inventory.py:488
+msgctxt "InventoryEditor|"
+msgid "Change item count"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:381
+msgctxt "MCEditApp|"
+msgid "&Debug"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:391
+msgctxt "MCEditApp|"
+msgid "Raise Error"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:386
+msgctxt "MCEditApp|"
+msgid "Raise an error? This may crash MCEdit."
+msgstr ""
+
+#: src/mcedit2/editorapp.py:398
+msgctxt "MCEditApp|"
+msgid "IPython Console"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:405
+msgctxt "MCEditApp|"
+msgid "ObjGraph"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:412
+msgctxt "MCEditApp|"
+msgid "Heap Trace (slow)"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:414
+msgctxt "MCEditApp|"
+msgid "Collect Garbage"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:690
+msgctxt "MCEditApp|"
+msgid "Loading world..."
+msgstr ""
+
+#: src/mcedit2/editorapp.py:771
+msgctxt "MCEditApp|"
+msgid "Open World, Level or Schematic"
+msgstr ""
+
+#: src/mcedit2/editorapp.py:53
+msgctxt "MCEditMainWindow|"
+msgid "MCEdit %(version)s"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:227
+msgctxt "MCInstallGroup|"
+msgid "Download Minecraft"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:228
+msgctxt "MCInstallGroup|"
+msgid "Configure Installs"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:229
+msgctxt "MCInstallGroup|"
+msgid "Exit MCEdit"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:289
+msgctxt "MCInstallGroup|"
+msgid "Downloading Minecraft %s"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:303
+msgctxt "MCInstallGroup|"
+msgid "Failed to download the required Minecraft version."
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:305
+msgctxt "MCInstallGroup|"
+msgid ""
+"An error occured while downloading Minecraft from the official servers.\n"
+"\n"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:321
+msgctxt "MCInstallGroup|"
+msgid "Downloading version manifest"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:333
+msgctxt "MCInstallGroup|"
+msgid "Failed to download version manifest. (Error code: %s)"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:339
+msgctxt "MCInstallGroup|"
+msgid "Parsing version manifest"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:350
+msgctxt "MCInstallGroup|"
+msgid "Failed to parse version manifest. (Exception: %s)"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:358
+msgctxt "MCInstallGroup|"
+msgid "Downloading version info"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:366
+msgctxt "MCInstallGroup|"
+msgid "Failed to download version info. (Error code: %s)"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:372
+msgctxt "MCInstallGroup|"
+msgid "Parsing version info"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:381
+msgctxt "MCInstallGroup|"
+msgid "Failed to parse version info file. (Exception: %s)"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:388
+msgctxt "MCInstallGroup|"
+msgid "Downloading Minecraft jar"
+msgstr ""
+
+#: src/mcedit2/util/minecraftinstall.py:396
+msgctxt "MCInstallGroup|"
+msgid "Failed to download Minecraft jar. (Error code: %s)"
+msgstr ""
+
+#: src/mcedit2/panels/map.py:80
+msgctxt "MapPanel|"
+msgid "Edit Maps"
+msgstr ""
+
+#: src/mcedit2/panels/map.py:165
+msgctxt "MapPanel|"
+msgid "Choose an image file"
+msgstr ""
+
+#: src/mcedit2/panels/map.py:177
+msgctxt "MapPanel|"
+msgid "Import Image as Map"
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:117
+msgctxt "MoveTool|"
+msgid "Options"
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:119
+msgctxt "MoveTool|"
+msgid "Copy Air"
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:228
+msgctxt "MoveTool|"
+msgid "<Moved Object>"
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:256
+msgctxt "MoveTool|"
+msgid "Pasting..."
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:263
+msgctxt "MoveTool|"
+msgid "Clearing..."
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:101
+msgctxt "NBTEditorWidget|"
+msgid "Byte"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:102
+msgctxt "NBTEditorWidget|"
+msgid "Short"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:103
+msgctxt "NBTEditorWidget|"
+msgid "Int"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:104
+msgctxt "NBTEditorWidget|"
+msgid "Long"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:105
+msgctxt "NBTEditorWidget|"
+msgid "Float"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:106
+msgctxt "NBTEditorWidget|"
+msgid "Double"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:107
+msgctxt "NBTEditorWidget|"
+msgid "String"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:108
+msgctxt "NBTEditorWidget|"
+msgid "List"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:109
+msgctxt "NBTEditorWidget|"
+msgid "Compound"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:111
+msgctxt "NBTEditorWidget|"
+msgid "Byte Array"
+msgstr ""
+
+#: src/mcedit2/widgets/nbttree/nbteditor.py:112
+msgctxt "NBTEditorWidget|"
+msgid "Int Array"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/shapes.py:250
+msgctxt "ParabolicDome|"
+msgid "Parabolic Dome"
+msgstr ""
+
+#: src/mcedit2/imports.py:436
+msgctxt "PendingImport|"
+msgid "Copying..."
+msgstr ""
+
+#: src/mcedit2/panels/player.py:113
+msgctxt "PlayerPanel|"
+msgid "Edit Player"
+msgstr ""
+
+#: src/mcedit2/plugins/command.py:409
+msgctxt "PluginsMenu|"
+msgid "Plugins"
+msgstr ""
+
+#: src/mcedit2/command.py:64
+msgctxt "QtGui.qApp|"
+msgid "Writing undo history"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:61
+msgctxt "QtGui.qApp|"
+msgid "Rotate Cloned Objects"
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:49
+msgctxt "QtGui.qApp|"
+msgid "Move Object"
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:64
+msgctxt "QtGui.qApp|"
+msgid "Rotate Object"
+msgstr ""
+
+#: src/mcedit2/editortools/select.py:160
+msgctxt "QtGui.qApp|"
+msgid "Box Selection"
+msgstr ""
+
+#: src/mcedit2/util/qglcontext.py:62
+msgctxt "QtGui.qApp|"
+msgid "OpenGL Error"
+msgstr ""
+
+#: src/mcedit2/util/qglcontext.py:64
+msgctxt "QtGui.qApp|"
+msgid ""
+"OpenGL 1.3 or greater is required. MCEdit was unable to start up OpenGL."
+msgstr ""
+
+#: src/mcedit2/util/qglcontext.py:68
+msgctxt "QtGui.qApp|"
+msgid ""
+"Could not create a usable OpenGL context. Verify that your graphics drivers "
+"are installed correctly."
+msgstr ""
+
+#: src/mcedit2/editortools/brush/modes.py:133
+msgctxt "Replace|"
+msgid "Replace"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/shapes.py:121
+msgctxt "Round|"
+msgid "Round"
+msgstr ""
+
+#: src/mcedit2/editortools/select.py:188
+msgctxt "SelectionTool|"
+msgid "Options"
+msgstr ""
+
+#: src/mcedit2/editortools/select.py:193
+msgctxt "SelectionTool|"
+msgid "Classic Selection"
+msgstr ""
+
+#: src/mcedit2/editortools/select.py:194
+msgctxt "SelectionTool|"
+msgid "Sticky Selection"
+msgstr ""
+
+#: src/mcedit2/editortools/select.py:304
+msgctxt "SelectionTool|"
+msgid "Resize Selection"
+msgstr ""
+
+#: src/mcedit2/widgets/shapewidget.py:88
+msgctxt "ShapeWidget|"
+msgid "Shape: "
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/sign.py:32
+msgctxt "SignEditorWidget|"
+msgid "Text %d"
+msgstr ""
+
+#: src/mcedit2/widgets/inspector/tileentities/sign.py:39
+msgctxt "SignEditorWidget|"
+msgid "Edit sign text"
+msgstr ""
+
+#: src/mcedit2/editortools/brush/shapes.py:159
+msgctxt "Square|"
+msgid "Square"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:147
+msgctxt "ViewAction|"
+msgid "Left Button"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:148
+msgctxt "ViewAction|"
+msgid "Right Button"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:149
+msgctxt "ViewAction|"
+msgid "Middle Button"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:150
+msgctxt "ViewAction|"
+msgid "Mousewheel Up"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:151
+msgctxt "ViewAction|"
+msgid "Mousewheel Down"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:158
+msgctxt "ViewAction|"
+msgid "Shift"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:159
+msgctxt "ViewAction|"
+msgid "Control"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:160
+msgctxt "ViewAction|"
+msgid "Alt"
+msgstr ""
+
+#: src/mcedit2/worldview/viewaction.py:161
+msgctxt "ViewAction|"
+msgid "Meta"
+msgstr ""
+
+#: src/mcedit2/worldview/viewcontrols.py:174
+msgctxt "ViewControls|"
+msgid "Controls"
+msgstr ""
+
+#: src/mcedit2/worldview/viewcontrols.py:195
+msgctxt "ViewControls|"
+msgid "Edit Controls"
+msgstr ""
+
+#: src/mcedit2/worldview/viewcontrols.py:195
+msgctxt "ViewControls|"
+msgid "Done Editing"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:31
+msgctxt "WorldInfoPanel|"
+msgid "World Info"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:39
+msgctxt "WorldInfoPanel|"
+msgid "Survival"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:39
+msgctxt "WorldInfoPanel|"
+msgid "Creative"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:39
+msgctxt "WorldInfoPanel|"
+msgid "Adventure"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:40
+msgctxt "WorldInfoPanel|"
+msgid "Spectator"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:40
+msgctxt "WorldInfoPanel|"
+msgid "Peaceful"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:40
+msgctxt "WorldInfoPanel|"
+msgid "Easy"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:40
+msgctxt "WorldInfoPanel|"
+msgid "Normal"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:41
+msgctxt "WorldInfoPanel|"
+msgid "Hard"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:42
+msgctxt "WorldInfoPanel|"
+msgid "Default"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:43
+msgctxt "WorldInfoPanel|"
+msgid "Flat"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:44
+msgctxt "WorldInfoPanel|"
+msgid "Large Biomes"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:45
+msgctxt "WorldInfoPanel|"
+msgid "Amplified"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:46
+msgctxt "WorldInfoPanel|"
+msgid "Customized"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:47
+msgctxt "WorldInfoPanel|"
+msgid "Debug All Block States"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:143
+msgctxt "WorldInfoPanel|"
+msgid "World Metadata: "
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:172
+msgctxt "WorldInfoPanel|"
+msgid "Change Level Name"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:181
+msgctxt "WorldInfoPanel|"
+msgid "Change Generator Random Seed"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:190
+msgctxt "WorldInfoPanel|"
+msgid "Change Generator Options"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:200
+msgctxt "WorldInfoPanel|"
+msgid "Change Default Gamemode"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:210
+msgctxt "WorldInfoPanel|"
+msgid "Change Difficulty"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:226
+msgctxt "WorldInfoPanel|"
+msgid "Change Generation Type"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:236
+msgctxt "WorldInfoPanel|"
+msgid "Change Spawn Coordinates"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:247
+msgctxt "WorldInfoPanel|"
+msgid "Change DayTime"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:272
+msgctxt "WorldInfoPanel|"
+msgid "Change Hardcore"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:281
+msgctxt "WorldInfoPanel|"
+msgid "Change Locked Difficulty"
+msgstr ""
+
+#: src/mcedit2/panels/worldinfo.py:290
+msgctxt "WorldInfoPanel|"
+msgid "Change Allow Commands"
+msgstr ""
+
+#: src/mcedit2/worldlist.py:265
+msgctxt "WorldListWidget|"
+msgid "(No resource pack)"
+msgstr ""
+
+#: src/mcedit2/worldlist.py:283
+msgctxt "WorldListWidget|"
+msgid "Choose Saves Folder"
+msgstr ""
+
+#: src/mcedit2/ui/analyze.ui:14
+msgctxt "analyzeDialog|"
+msgid "Analyze Output"
+msgstr ""
+
+#: src/mcedit2/ui/analyze.ui:20
+msgctxt "analyzeDialog|"
+msgid "Blocks Found:"
+msgstr ""
+
+#: src/mcedit2/ui/analyze.ui:30
+msgctxt "analyzeDialog|"
+msgid "Entities Found:"
+msgstr ""
+
+#: src/mcedit2/ui/analyze.ui:42
+msgctxt "analyzeDialog|"
+msgid "Export txt"
+msgstr ""
+
+#: src/mcedit2/ui/analyze.ui:49
+msgctxt "analyzeDialog|"
+msgid "Export csv"
+msgstr ""
+
+#: src/mcedit2/ui/analyze.ui:69
+msgctxt "analyzeDialog|"
+msgid "Close"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/block_picker_multiple.ui:20
+msgctxt "blockPickerMultiple|"
+msgid "Choose Blocks"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/block_picker_multiple.ui:28
+msgctxt "blockPickerMultiple|"
+msgid "Search:"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/block_picker_multiple.ui:145
+msgctxt "blockPickerMultiple|"
+msgid "Cancel"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/block_picker_multiple.ui:152
+msgctxt "blockPickerMultiple|"
+msgid "OK"
+msgstr ""
+
+#: src/mcedit2/ui/blocktype_list.ui:14
+msgctxt "blocktypeList|"
+msgid "Dialog"
+msgstr ""
+
+#: src/mcedit2/ui/blocktype_list.ui:20
+msgctxt "blocktypeList|"
+msgid "Known Blocks:"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/brush.ui:14
+msgctxt "brushWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/brush.ui:38
+msgctxt "brushWidget|"
+msgid "Width:"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/brush.ui:55
+msgctxt "brushWidget|"
+msgid "Height:"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/brush.ui:72
+msgctxt "brushWidget|"
+msgid "Length:"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/brush.ui:89
+msgctxt "brushWidget|"
+msgid "Hover:"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/brush.ui:106
+msgctxt "brushWidget|"
+msgid "Mode:"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/brush.ui:125
+msgctxt "brushWidget|"
+msgid "Hollow"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:27
+msgctxt "cloneTool|"
+msgid "Clone Selected Object"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:45
+msgctxt "cloneTool|"
+msgid "Move Cloned Object"
+msgstr ""
+
+#: src/mcedit2/editortools/clone.py:74
+msgctxt "cloneTool|"
+msgid "Finish Clone"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:17
+msgctxt "configureBlocks|"
+msgid "Configure Blocks/Items"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:27
+msgctxt "configureBlocks|"
+msgid "Blocks"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:45
+msgctxt "configureBlocks|"
+msgid "Unknown blocks:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:65
+msgctxt "configureBlocks|"
+msgid "Add"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:72
+msgctxt "configureBlocks|"
+msgid "Remove"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:97
+msgctxt "configureBlocks|"
+msgid "Model:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:114
+msgctxt "configureBlocks|"
+msgid "X rotation:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:184
+msgctxt "configureBlocks|"
+msgid "0"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:189
+msgctxt "configureBlocks|"
+msgid "90"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:194
+msgctxt "configureBlocks|"
+msgid "180"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:199
+msgctxt "configureBlocks|"
+msgid "270"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:145
+msgctxt "configureBlocks|"
+msgid "Y rotation:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:176
+msgctxt "configureBlocks|"
+msgid "Z rotation:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:213
+msgctxt "configureBlocks|"
+msgid "Model Preview"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:234
+msgctxt "configureBlocks|"
+msgid "Model Textures:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:259
+msgctxt "configureBlocks|"
+msgid "TexVar"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:264
+msgctxt "configureBlocks|"
+msgid "Texture"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:269
+msgctxt "configureBlocks|"
+msgid "Icon"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:284
+msgctxt "configureBlocks|"
+msgid "Search:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:358
+msgctxt "configureBlocks|"
+msgid "Items"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:366
+msgctxt "configureBlocks|"
+msgid "Note:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:372
+msgctxt "configureBlocks|"
+msgid ""
+"Use this window to tell MCEdit about blocks and items added to Minecraft by "
+"any mods you are using. You cannot use this to create new blocks or add new "
+"blocks to Minecraft."
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/configure_blocks.ui:397
+msgctxt "configureBlocks|"
+msgid "OK"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/coord_widget.ui:20
+msgctxt "coordWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/coord_widget.ui:28
+msgctxt "coordWidget|"
+msgid "Relative"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/coord_widget.ui:35
+msgctxt "coordWidget|"
+msgid "X:"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/coord_widget.ui:52
+msgctxt "coordWidget|"
+msgid "Y:"
+msgstr ""
+
+#: src/mcedit2/ui/widgets/coord_widget.ui:69
+msgctxt "coordWidget|"
+msgid "Z:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:14
+msgctxt "errorDialog|"
+msgid "MCEdit Error"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:22
+msgctxt "errorDialog|"
+msgid ""
+"<html><head/><body><p><span style=\" font-size:12pt;\">An Error Has "
+"Occurred:</span></p></body></html>"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:41
+msgctxt "errorDialog|"
+msgid "(no error yet!)"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:53
+msgctxt "errorDialog|"
+msgid ""
+"It is recommended to undo the last command, save your work, and restart "
+"MCEdit."
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:60
+msgctxt "errorDialog|"
+msgid "Error Details:"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:70
+msgctxt "errorDialog|"
+msgid ""
+"Send this error report to the plugin or application developer to help get it "
+"fixed. "
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:77
+msgctxt "errorDialog|"
+msgid ""
+"Clicking \"Copy to PasteBin\" will copy a Pastebin URL to your clipboard."
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:106
+msgctxt "errorDialog|"
+msgid "Debug"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:113
+msgctxt "errorDialog|"
+msgid "Copy to PasteBin"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:120
+msgctxt "errorDialog|"
+msgid "Restart MCEdit"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:127
+msgctxt "errorDialog|"
+msgid "Quit"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/error_dialog.ui:134
+msgctxt "errorDialog|"
+msgid "Continue"
+msgstr ""
+
+#: src/mcedit2/ui/fill.ui:14
+msgctxt "fillDialog|"
+msgid "Fill..."
+msgstr ""
+
+#: src/mcedit2/ui/fill.ui:22
+msgctxt "fillDialog|"
+msgid "Fill with:"
+msgstr ""
+
+#: src/mcedit2/ui/fill.ui:56
+msgctxt "fillDialog|"
+msgid "Cancel"
+msgstr ""
+
+#: src/mcedit2/ui/fill.ui:63
+msgctxt "fillDialog|"
+msgid "Fill"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:14
+msgctxt "findCommandResults|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:35
+msgctxt "findCommandResults|"
+msgid "Find:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:45
+msgctxt "findCommandResults|"
+msgid "Replace with:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:55
+msgctxt "findCommandResults|"
+msgid "RegEx"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:66
+msgctxt "findCommandResults|"
+msgid "Progress:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:80
+msgctxt "findCommandResults|"
+msgid "Replace All"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:87
+msgctxt "findCommandResults|"
+msgid "Replace Selected"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:94
+msgctxt "findCommandResults|"
+msgid "Stop"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_command_results.ui:101
+msgctxt "findCommandResults|"
+msgid "Find Again..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:14
+msgctxt "findCommandsWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:20
+msgctxt "findCommandsWidget|"
+msgid "Search for..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:28
+msgctxt "findCommandsWidget|"
+msgid "Command Types"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:35
+msgctxt "findCommandsWidget|"
+msgid "Commands to search for, such as 'setblock;execute;playsound'"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:46
+msgctxt "findCommandsWidget|"
+msgid "Target Selector"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:53
+msgctxt "findCommandsWidget|"
+msgid "Target selectors, such as 'p;r;a;e'"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:60
+msgctxt "findCommandsWidget|"
+msgid "Arguments"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:67
+msgctxt "findCommandsWidget|"
+msgid "Arguments, such as 'type=Creeper;r=10'"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:78
+msgctxt "findCommandsWidget|"
+msgid "Command Text"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:88
+msgctxt "findCommandsWidget|"
+msgid "Search the full command for this text"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:95
+msgctxt "findCommandsWidget|"
+msgid "Regex"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:102
+msgctxt "findCommandsWidget|"
+msgid "?"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:114
+msgctxt "findCommandsWidget|"
+msgid "Replace with..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:122
+msgctxt "findCommandsWidget|"
+msgid "Replace Text:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:129
+msgctxt "findCommandsWidget|"
+msgid "Replace the matching command text with this"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:169
+msgctxt "findCommandsWidget|"
+msgid "In Selection"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_commands.ui:182
+msgctxt "findCommandsWidget|"
+msgid "Find"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:14
+msgctxt "findNBTResults|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:35
+msgctxt "findNBTResults|"
+msgid "Replace Name With:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:45
+msgctxt "findNBTResults|"
+msgid "Replace Value With:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:55
+msgctxt "findNBTResults|"
+msgid "Tag Type:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:63
+msgctxt "findNBTResults|"
+msgid "Existing"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:68
+msgctxt "findNBTResults|"
+msgid "String"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:73
+msgctxt "findNBTResults|"
+msgid "Byte"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:78
+msgctxt "findNBTResults|"
+msgid "Short"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:83
+msgctxt "findNBTResults|"
+msgid "Int"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:88
+msgctxt "findNBTResults|"
+msgid "Long"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:93
+msgctxt "findNBTResults|"
+msgid "Float"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:98
+msgctxt "findNBTResults|"
+msgid "Double"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:110
+msgctxt "findNBTResults|"
+msgid "Progress:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:124
+msgctxt "findNBTResults|"
+msgid "Replace All"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:131
+msgctxt "findNBTResults|"
+msgid "Replace Selected"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:138
+msgctxt "findNBTResults|"
+msgid "Remove Tags"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:145
+msgctxt "findNBTResults|"
+msgid "Remove Selected"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:152
+msgctxt "findNBTResults|"
+msgid "Stop"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt_results.ui:159
+msgctxt "findNBTResults|"
+msgid "Find Again..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:14
+msgctxt "findNBTWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:20
+msgctxt "findNBTWidget|"
+msgid "Search for..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:28
+msgctxt "findNBTWidget|"
+msgid "Tag Names"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:38
+msgctxt "findNBTWidget|"
+msgid "Values"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:214
+msgctxt "findNBTWidget|"
+msgid "Tag Type:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:61
+msgctxt "findNBTWidget|"
+msgid "Any"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:66
+msgctxt "findNBTWidget|"
+msgid "Any Numeric"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:71
+msgctxt "findNBTWidget|"
+msgid "Any Integer"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:76
+msgctxt "findNBTWidget|"
+msgid "Any Floating-Point"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:81
+msgctxt "findNBTWidget|"
+msgid "Any Array"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:227
+msgctxt "findNBTWidget|"
+msgid "String"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:232
+msgctxt "findNBTWidget|"
+msgid "Byte"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:237
+msgctxt "findNBTWidget|"
+msgid "Short"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:242
+msgctxt "findNBTWidget|"
+msgid "Int"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:247
+msgctxt "findNBTWidget|"
+msgid "Long"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:252
+msgctxt "findNBTWidget|"
+msgid "Float"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:257
+msgctxt "findNBTWidget|"
+msgid "Double"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:121
+msgctxt "findNBTWidget|"
+msgid "List"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:126
+msgctxt "findNBTWidget|"
+msgid "Compound"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:131
+msgctxt "findNBTWidget|"
+msgid "Byte Array"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:136
+msgctxt "findNBTWidget|"
+msgid "Int Array"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:141
+msgctxt "findNBTWidget|"
+msgid "Short Array"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:151
+msgctxt "findNBTWidget|"
+msgid "Tag Path:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:160
+msgctxt "findNBTWidget|"
+msgid "Path to search in, such as 'Data/Player/Inventory'"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:167
+msgctxt "findNBTWidget|"
+msgid "?"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:181
+msgctxt "findNBTWidget|"
+msgid "Replace with..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:192
+msgctxt "findNBTWidget|"
+msgid "Replace Name With:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:202
+msgctxt "findNBTWidget|"
+msgid "Replace Value With:"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:222
+msgctxt "findNBTWidget|"
+msgid "Existing"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:272
+msgctxt "findNBTWidget|"
+msgid "Search in..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:280
+msgctxt "findNBTWidget|"
+msgid "Search Entities"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:287
+msgctxt "findNBTWidget|"
+msgid "Entity IDs, separted by ';'"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:294
+msgctxt "findNBTWidget|"
+msgid "Search Tile Entities"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:301
+msgctxt "findNBTWidget|"
+msgid "TileEntity IDs, separted by ';'"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:311
+msgctxt "findNBTWidget|"
+msgid "Search Items"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:321
+msgctxt "findNBTWidget|"
+msgid "Item IDs, separated by ';'"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:335
+msgctxt "findNBTWidget|"
+msgid "Search Players"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:345
+msgctxt "findNBTWidget|"
+msgid "Search Chunks"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:355
+msgctxt "findNBTWidget|"
+msgid "Search other .dat files"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:395
+msgctxt "findNBTWidget|"
+msgid "In Selection"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace_nbt.ui:408
+msgctxt "findNBTWidget|"
+msgid "Find"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace.ui:14
+msgctxt "findReplaceDialog|"
+msgid "Find and Replace..."
+msgstr ""
+
+#: src/mcedit2/ui/find_replace.ui:24
+msgctxt "findReplaceDialog|"
+msgid "Find Blocks"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace.ui:29
+msgctxt "findReplaceDialog|"
+msgid "Replace Blocks"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace.ui:34
+msgctxt "findReplaceDialog|"
+msgid "Find/Replace Items"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace.ui:39
+msgctxt "findReplaceDialog|"
+msgid "Find/Replace in Command Blocks"
+msgstr ""
+
+#: src/mcedit2/ui/find_replace.ui:44
+msgctxt "findReplaceDialog|"
+msgid "Find/Replace NBT Data"
+msgstr ""
+
+#: src/mcedit2/ui/import_map.ui:14
+msgctxt "importMapDialog|"
+msgid "Import Image as Map"
+msgstr ""
+
+#: src/mcedit2/ui/import_map.ui:45
+msgctxt "importMapDialog|"
+msgid "Import as Mosaic"
+msgstr ""
+
+#: src/mcedit2/ui/import_map.ui:57
+msgctxt "importMapDialog|"
+msgid "Tiles Wide:"
+msgstr ""
+
+#: src/mcedit2/ui/import_map.ui:71
+msgctxt "importMapDialog|"
+msgid "Tiles High:"
+msgstr ""
+
+#: src/mcedit2/ui/import_map.ui:85
+msgctxt "importMapDialog|"
+msgid "Stretch Tiles:"
+msgstr ""
+
+#: src/mcedit2/ui/import_map.ui:119
+msgctxt "importMapDialog|"
+msgid "Cancel"
+msgstr ""
+
+#: src/mcedit2/ui/import_map.ui:126
+msgctxt "importMapDialog|"
+msgid "Import"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:14
+msgctxt "inspectorWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:32
+msgctxt "inspectorWidget|"
+msgid "Inspecting block at:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:39
+msgctxt "inspectorWidget|"
+msgid "X:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:56
+msgctxt "inspectorWidget|"
+msgid "Y:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:73
+msgctxt "inspectorWidget|"
+msgid "Z:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:107
+msgctxt "inspectorWidget|"
+msgid "Block Name:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:114
+msgctxt "inspectorWidget|"
+msgid "(name)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:121
+msgctxt "inspectorWidget|"
+msgid "Internal Name:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:128
+msgctxt "inspectorWidget|"
+msgid "(internal name)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:135
+msgctxt "inspectorWidget|"
+msgid "BlockState:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:142
+msgctxt "inspectorWidget|"
+msgid "(blockstate)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:155
+msgctxt "inspectorWidget|"
+msgid "Block ID:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:162
+msgctxt "inspectorWidget|"
+msgid "(id)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:173
+msgctxt "inspectorWidget|"
+msgid "BlockLight:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:180
+msgctxt "inspectorWidget|"
+msgid "(blockLight)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:191
+msgctxt "inspectorWidget|"
+msgid "Block Data:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:198
+msgctxt "inspectorWidget|"
+msgid "(data)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:209
+msgctxt "inspectorWidget|"
+msgid "SkyLight:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:216
+msgctxt "inspectorWidget|"
+msgid "(skyLight)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:227
+msgctxt "inspectorWidget|"
+msgid "HeightMap:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:234
+msgctxt "inspectorWidget|"
+msgid "(heightMap)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:245
+msgctxt "inspectorWidget|"
+msgid "TileTicks"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:274
+msgctxt "inspectorWidget|"
+msgid "Save Custom Block"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:281
+msgctxt "inspectorWidget|"
+msgid "Add Tile Entity"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:288
+msgctxt "inspectorWidget|"
+msgid "Remove Tile Entity"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:301
+msgctxt "inspectorWidget|"
+msgid "TileEntity NBT"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:327
+msgctxt "inspectorWidget|"
+msgid "Inspecting entity"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:334
+msgctxt "inspectorWidget|"
+msgid "at "
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:341
+msgctxt "inspectorWidget|"
+msgid "X="
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:348
+msgctxt "inspectorWidget|"
+msgid "(x)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:355
+msgctxt "inspectorWidget|"
+msgid "Y="
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:362
+msgctxt "inspectorWidget|"
+msgid "(y)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:369
+msgctxt "inspectorWidget|"
+msgid "Z="
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:376
+msgctxt "inspectorWidget|"
+msgid "(z)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:396
+msgctxt "inspectorWidget|"
+msgid "Remove Entity"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:407
+msgctxt "inspectorWidget|"
+msgid "Entity ID:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:414
+msgctxt "inspectorWidget|"
+msgid "(entityID)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:421
+msgctxt "inspectorWidget|"
+msgid "UUID:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:428
+msgctxt "inspectorWidget|"
+msgid "(uuid)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:453
+msgctxt "inspectorWidget|"
+msgid "Inspecting chunk at:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:460
+msgctxt "inspectorWidget|"
+msgid "CX:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:467
+msgctxt "inspectorWidget|"
+msgid "(cx)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:474
+msgctxt "inspectorWidget|"
+msgid "CZ:"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:481
+msgctxt "inspectorWidget|"
+msgid "(cz)"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:507
+msgctxt "inspectorWidget|"
+msgid "Chunk"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:515
+msgctxt "inspectorWidget|"
+msgid ""
+"Marks this chunk to have trees, lakes, ores, and other terrain features "
+"regenerated in Minecraft."
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:521
+msgctxt "inspectorWidget|"
+msgid "Terrain Populated"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:528
+msgctxt "inspectorWidget|"
+msgid ""
+"Currently does nothing. Minecraft sets it after generating a chunk but never "
+"reads it again."
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:534
+msgctxt "inspectorWidget|"
+msgid "Light Populated"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:565
+msgctxt "inspectorWidget|"
+msgid ""
+"Time in ticks when this chunk was last updated. Recently played chunks will "
+"reflect the current in-game time, older chunks will have smaller values."
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:552
+msgctxt "inspectorWidget|"
+msgid "Update Time"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:604
+msgctxt "inspectorWidget|"
+msgid "Number of ticks the player has spent in this chunk."
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:591
+msgctxt "inspectorWidget|"
+msgid "Inhabited Time"
+msgstr ""
+
+#: src/mcedit2/ui/inspector.ui:635
+msgctxt "inspectorWidget|"
+msgid "NBT Data"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:14
+msgctxt "installsWidget|"
+msgid "MCEdit - Minecraft Installations"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:22
+msgctxt "installsWidget|"
+msgid "Minecraft Installations"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:186
+msgctxt "installsWidget|"
+msgid "Name"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:61
+msgctxt "installsWidget|"
+msgid "Versions"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:196
+msgctxt "installsWidget|"
+msgid "Path"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:79
+msgctxt "installsWidget|"
+msgid "OK"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:216
+msgctxt "installsWidget|"
+msgid "Add"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:223
+msgctxt "installsWidget|"
+msgid "Remove"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:119
+msgctxt "installsWidget|"
+msgid "Select"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:126
+msgctxt "installsWidget|"
+msgid "Snapshots"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:152
+msgctxt "installsWidget|"
+msgid "MultiMC Installations"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:191
+msgctxt "installsWidget|"
+msgid "Instances"
+msgstr ""
+
+#: src/mcedit2/ui/minecraft_installs.ui:204
+msgctxt "installsWidget|"
+msgid ""
+"MultiMC instances are automatically selected when a world from that instance "
+"is loaded."
+msgstr ""
+
+#: src/mcedit2/ui/library.ui:14
+msgctxt "library|"
+msgid "Dialog"
+msgstr ""
+
+#: src/mcedit2/ui/library.ui:24
+msgctxt "library|"
+msgid "Schematics"
+msgstr ""
+
+#: src/mcedit2/ui/library.ui:55
+msgctxt "library|"
+msgid "Open Schematics Folder"
+msgstr ""
+
+#: src/mcedit2/ui/library.ui:65
+msgctxt "library|"
+msgid "Maps"
+msgstr ""
+
+#: src/mcedit2/ui/library.ui:91
+msgctxt "library|"
+msgid "Custom Blocks"
+msgstr ""
+
+#: src/mcedit2/ui/log_view.ui:14
+msgctxt "logView|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/log_view.ui:52
+msgctxt "logView|"
+msgid "Errors"
+msgstr ""
+
+#: src/mcedit2/ui/log_view.ui:81
+msgctxt "logView|"
+msgid "Warnings"
+msgstr ""
+
+#: src/mcedit2/ui/log_view.ui:110
+msgctxt "logView|"
+msgid "Info"
+msgstr ""
+
+#: src/mcedit2/ui/log_view.ui:139
+msgctxt "logView|"
+msgid "Debug"
+msgstr ""
+
+#: src/mcedit2/ui/log_view.ui:173
+msgctxt "logView|"
+msgid "ShowErrorsToggle"
+msgstr ""
+
+#: src/mcedit2/ui/log_view.ui:176
+msgctxt "logView|"
+msgid "Show Errors"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:14
+msgctxt "mainWindow|"
+msgid "MCEdit tech demo"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:44
+msgctxt "mainWindow|"
+msgid "MCEdit"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:48
+msgctxt "mainWindow|"
+msgid "Recent Worlds"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:66
+msgctxt "mainWindow|"
+msgid "Help"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:72
+msgctxt "mainWindow|"
+msgid "Window"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:77
+msgctxt "mainWindow|"
+msgid "Options"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:95
+msgctxt "mainWindow|"
+msgid "Tools"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:109
+msgctxt "mainWindow|"
+msgid "toolBar"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:123
+msgctxt "mainWindow|"
+msgid "New World..."
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:128
+msgctxt "mainWindow|"
+msgid "Open World..."
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:133
+msgctxt "mainWindow|"
+msgid "Show World List"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:138
+msgctxt "mainWindow|"
+msgid "Close World"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:143
+msgctxt "mainWindow|"
+msgid "Save World"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:148
+msgctxt "mainWindow|"
+msgid "Save World As..."
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:153
+msgctxt "mainWindow|"
+msgid "Exit MCEdit"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:158
+msgctxt "mainWindow|"
+msgid "About MCEdit 2..."
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:163
+msgctxt "mainWindow|"
+msgid "Clear"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:174
+msgctxt "mainWindow|"
+msgid "Enable Lighting Updates"
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:179
+msgctxt "mainWindow|"
+msgid "Preferences..."
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:187
+msgctxt "mainWindow|"
+msgid "Configure Blocks/Items..."
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:192
+msgctxt "mainWindow|"
+msgid "Plugins..."
+msgstr ""
+
+#: src/mcedit2/ui/main_window.ui:200
+msgctxt "mainWindow|"
+msgid "Enable Developer Mode"
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:14
+msgctxt "mapWidget|"
+msgid "Edit Maps"
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:40
+msgctxt "mapWidget|"
+msgid "Width:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:116
+msgctxt "mapWidget|"
+msgid "xx"
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:54
+msgctxt "mapWidget|"
+msgid "Height: "
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:84
+msgctxt "mapWidget|"
+msgid "Currently editing in external editor."
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:95
+msgctxt "mapWidget|"
+msgid "Dimension: "
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:109
+msgctxt "mapWidget|"
+msgid "Scale: "
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:136
+msgctxt "mapWidget|"
+msgid "Edit in External Editor..."
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:192
+msgctxt "mapWidget|"
+msgid "Delete Map"
+msgstr ""
+
+#: src/mcedit2/ui/panels/map.ui:199
+msgctxt "mapWidget|"
+msgid "Import Image..."
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:28
+msgctxt "moveTool|"
+msgid "Move Selected Object"
+msgstr ""
+
+#: src/mcedit2/editortools/move.py:77
+msgctxt "moveTool|"
+msgid "Finish Move"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:14
+msgctxt "playerWidget|"
+msgid "Edit Players"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:22
+msgctxt "playerWidget|"
+msgid "Player:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:36
+msgctxt "playerWidget|"
+msgid "Camera to Player's View"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:43
+msgctxt "playerWidget|"
+msgid "Move Player to Camera"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:56
+msgctxt "playerWidget|"
+msgid "Player"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:62
+msgctxt "playerWidget|"
+msgid "Inventory"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:70
+msgctxt "playerWidget|"
+msgid "All Properties"
+msgstr ""
+
+#: src/mcedit2/ui/panels/player.ui:87
+msgctxt "playerWidget|"
+msgid "NBT Tree"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/plugins.ui:14
+msgctxt "pluginsDialog|"
+msgid "Plugins"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/plugins.ui:66
+msgctxt "pluginsDialog|"
+msgid "OK"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/preferences.ui:14
+msgctxt "preferencesDialog|"
+msgid "Preferences"
+msgstr ""
+
+#: src/mcedit2/ui/dialogs/preferences.ui:70
+msgctxt "preferencesDialog|"
+msgid "Close"
+msgstr ""
+
+#: src/mcedit2/ui/rotation_widget.ui:14
+msgctxt "rotationWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/rotation_widget.ui:24
+msgctxt "rotationWidget|"
+msgid "Rot X:"
+msgstr ""
+
+#: src/mcedit2/ui/rotation_widget.ui:124
+msgctxt "rotationWidget|"
+msgid "Rot90"
+msgstr ""
+
+#: src/mcedit2/ui/rotation_widget.ui:62
+msgctxt "rotationWidget|"
+msgid "Rot Y:"
+msgstr ""
+
+#: src/mcedit2/ui/rotation_widget.ui:100
+msgctxt "rotationWidget|"
+msgid "Rot Z:"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/select_block.ui:14
+msgctxt "selectBlockWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/select_chunk.ui:14
+msgctxt "selectChunkWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/select_entity.ui:14
+msgctxt "selectEntityWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/editortools/select_entity.ui:20
+msgctxt "selectEntityWidget|"
+msgid "Entities found:"
+msgstr ""
+
+#: src/mcedit2/ui/selection_coord_widget.ui:20
+msgctxt "selectionCoordWidget|"
+msgid "Form"
+msgstr ""
+
+#: src/mcedit2/ui/selection_coord_widget.ui:29
+msgctxt "selectionCoordWidget|"
+msgid "Edit Size"
+msgstr ""
+
+#: src/mcedit2/ui/selection_coord_widget.ui:38
+msgctxt "selectionCoordWidget|"
+msgid "X:"
+msgstr ""
+
+#: src/mcedit2/ui/selection_coord_widget.ui:123
+msgctxt "selectionCoordWidget|"
+msgid "to"
+msgstr ""
+
+#: src/mcedit2/ui/selection_coord_widget.ui:72
+msgctxt "selectionCoordWidget|"
+msgid "Y:"
+msgstr ""
+
+#: src/mcedit2/ui/selection_coord_widget.ui:106
+msgctxt "selectionCoordWidget|"
+msgid "Z:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:14
+msgctxt "worldInfoWidget|"
+msgid "Edit World Info"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:27
+msgctxt "worldInfoWidget|"
+msgid "World Info"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:33
+msgctxt "worldInfoWidget|"
+msgid "General"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:39
+msgctxt "worldInfoWidget|"
+msgid "Name:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:52
+msgctxt "worldInfoWidget|"
+msgid "Allow Commands"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:62
+msgctxt "worldInfoWidget|"
+msgid "Game Settings"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:70
+msgctxt "worldInfoWidget|"
+msgid "Difficulty:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:80
+msgctxt "worldInfoWidget|"
+msgid "Locked"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:87
+msgctxt "worldInfoWidget|"
+msgid "Hardcore"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:112
+msgctxt "worldInfoWidget|"
+msgid "Generator"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:120
+msgctxt "worldInfoWidget|"
+msgid "Seed:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:143
+msgctxt "worldInfoWidget|"
+msgid "Type:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:161
+msgctxt "worldInfoWidget|"
+msgid "Options:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:176
+msgctxt "worldInfoWidget|"
+msgid "Time"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:187
+msgctxt "worldInfoWidget|"
+msgid "Day: "
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:204
+msgctxt "worldInfoWidget|"
+msgid "Time:"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:211
+msgctxt "worldInfoWidget|"
+msgid "11:15"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:228
+msgctxt "worldInfoWidget|"
+msgid "Midnight"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:257
+msgctxt "worldInfoWidget|"
+msgid "Dawn"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:295
+msgctxt "worldInfoWidget|"
+msgid "Noon"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:324
+msgctxt "worldInfoWidget|"
+msgid "Evening"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:372
+msgctxt "worldInfoWidget|"
+msgid "Spawn"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:380
+msgctxt "worldInfoWidget|"
+msgid "Default Game Mode (Multiplayer):"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:407
+msgctxt "worldInfoWidget|"
+msgid "X"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:417
+msgctxt "worldInfoWidget|"
+msgid "Y"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:427
+msgctxt "worldInfoWidget|"
+msgid "Z"
+msgstr ""
+
+#: src/mcedit2/ui/panels/worldinfo.ui:469
+msgctxt "worldInfoWidget|"
+msgid "NBT Tree"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:14
+msgctxt "worldList|"
+msgid "MCEdit - World List"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:38
+msgctxt "worldList|"
+msgid "Minecraft Install"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:64
+msgctxt "worldList|"
+msgid "Version"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:90
+msgctxt "worldList|"
+msgid "Resource Pack"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:100
+msgctxt "worldList|"
+msgid "Configure Installs..."
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:134
+msgctxt "worldList|"
+msgid "Recent Worlds..."
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:155
+msgctxt "worldList|"
+msgid "Folder:"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:184
+msgctxt "worldList|"
+msgid "Choose..."
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:218
+msgctxt "worldList|"
+msgid "Open another world..."
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:261
+msgctxt "worldList|"
+msgid "Edit"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:284
+msgctxt "worldList|"
+msgid "Close"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:291
+msgctxt "worldList|"
+msgid "Backup"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:298
+msgctxt "worldList|"
+msgid "Repair"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:305
+msgctxt "worldList|"
+msgid "View"
+msgstr ""
+
+#: src/mcedit2/ui/world_list.ui:312
+msgctxt "worldList|"
+msgid "Show world list"
+msgstr ""
