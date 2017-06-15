@@ -63,7 +63,7 @@
     <message>
         <location filename="src/mcedit2/ui/block_replacements.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Tally</translation>
     </message>
     <message>
         <location filename="src/mcedit2/ui/block_replacements.ui" line="33"/>
@@ -107,22 +107,22 @@
     <message>
         <location filename="src/mcedit2/worldview/camera.py" line="66"/>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Keen-eye</translation>
     </message>
     <message>
         <location filename="src/mcedit2/worldview/camera.py" line="70"/>
         <source>Show...</source>
-        <translation type="unfinished"></translation>
+        <translation>Show...</translation>
     </message>
     <message>
         <location filename="src/mcedit2/worldview/camera.py" line="73"/>
         <source>Work Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Work Plane</translation>
     </message>
     <message>
         <location filename="src/mcedit2/worldview/camera.py" line="88"/>
         <source>View Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>How Far Be The Horizon:</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="src/mcedit2/widgets/inspector/tileentities/chest.py" line="39"/>
         <source>Chest</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest</translation>
     </message>
 </context>
 <context>
@@ -138,7 +138,7 @@
     <message>
         <location filename="src/mcedit2/editortools/brush/shapes.py" line="238"/>
         <source>Chunk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chunk</translation>
     </message>
 </context>
 <context>
@@ -146,32 +146,32 @@
     <message>
         <location filename="src/mcedit2/editortools/clone.py" line="133"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Obey</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/clone.py" line="140"/>
         <source>Rotate Repeats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rotate Repeats</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/clone.py" line="143"/>
         <source>Rotate Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotate Offset</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/clone.py" line="150"/>
         <source>Repeat count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Repeat count: </translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/clone.py" line="278"/>
         <source>&lt;Cloned Object&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Cloned Object&gt;</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/clone.py" line="309"/>
         <source>Pasting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasting...</translation>
     </message>
 </context>
 <context>
@@ -681,22 +681,22 @@
     <message>
         <location filename="src/mcedit2/editorapp.py" line="381"/>
         <source>&amp;Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Debug</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorapp.py" line="391"/>
         <source>Raise Error</source>
-        <translation type="unfinished"></translation>
+        <translation>SOS</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorapp.py" line="386"/>
         <source>Raise an error? This may crash MCEdit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Raise an error? This may crash MCEdit.</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorapp.py" line="398"/>
         <source>IPython Console</source>
-        <translation type="unfinished"></translation>
+        <translation>IPython Console</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorapp.py" line="405"/>
