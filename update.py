@@ -43,19 +43,15 @@ for uf in uifiles:
     
 proj.write("\nTRANSLATIONS = \\\n")
 
-tsfiles = []
+files = os.listdir("i18n")
+langs = [ts[:-3] for ts in files if ts.endswith(".ts")]
+tsfiles = ["i18n/" + ts for ts in files if ts.endswith(".ts")]
 
-for l in ['en', 'jp', 'cn', 'es', 'fr']:
-    f = "i18n/%s.ts" % l
-    tsfiles.append(f)
+for f in langs:
     proj.write(f + "\\\n")
     
 proj.close()
 
 subprocess.check_call([ps_lupdate, "mcedit2_lupdate.pro"])
-
-for ts in tsfiles:
-    po = ts.replace(".ts", ".po")
-    subprocess.check_call([ps_lconvert, ts, "-of", "po", "-o", po])
 
 os.remove("mcedit2_lupdate.pro")
