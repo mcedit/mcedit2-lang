@@ -241,97 +241,97 @@
     <message>
         <location filename="src/mcedit2/editorsession.py" line="186"/>
         <source>MCEdit %(version)s</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit %(version)s</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="187"/>
         <source>This world was not properly closed by MCEdit.</source>
-        <translation type="unfinished"></translation>
+        <translation>This world was not properly closed by MCEdit.</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="191"/>
         <source>MCEdit may have crashed. An undo history was found for this world. You may try to resume editing with the saved undo history, or start over with the current state of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit may have crashed. An undo history was found for this world. You may try to resume editing with the saved undo history, or start over with the current state of the world.</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="217"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Pillage</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="232"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="239"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrow</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="246"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Repay</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="253"/>
         <source>Paste Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Repay In Silver</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="260"/>
         <source>Paste Entities</source>
-        <translation type="unfinished"></translation>
+        <translation>Repay In Goods</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="270"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Burn</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="276"/>
         <source>Delete Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Jettison Cargo</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="283"/>
         <source>Delete Entities</source>
-        <translation type="unfinished"></translation>
+        <translation>Jettison Livestock</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="286"/>
         <source>Delete Entities And Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Jettison Livestock And Crew</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="296"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Ballast</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="306"/>
         <source>Find Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Search The Hold</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="312"/>
         <source>Find/Replace Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Garble The Hold</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="319"/>
         <source>Find/Replace Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Garble The Breakbulk</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="325"/>
         <source>Find/Replace Command Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Garble The Captain's Log</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="331"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Garble The Crew</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorsession.py" line="340"/>
