@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS><TS version="1.1">
+<!DOCTYPE TS>
+<TS version="1.1" language="es">
 <context>
     <name></name>
     <message>
         <location filename="src/mcedit2/editorapp.py" line="887"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -13,12 +14,12 @@
     <message>
         <location filename="src/mcedit2/editorcommands/analyze.py" line="64"/>
         <source>Export as .csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar como .csv</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorcommands/analyze.py" line="80"/>
         <source>Export as .txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar como .txt</translation>
     </message>
 </context>
 <context>
@@ -26,7 +27,7 @@
     <message>
         <location filename="src/mcedit2/editortools/brush/modes.py" line="172"/>
         <source>Biome</source>
-        <translation type="unfinished"></translation>
+        <translation>Bioma</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/brush/modes.py" line="173"/>
@@ -661,7 +662,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/widgets/inventory.py" line="466"/>
-        <source>Change item&apos;s raw ID</source>
+        <source>Change item's raw ID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1560,7 +1561,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/dialogs/error_dialog.ui" line="22"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;An Error Has Occurred:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:12pt;"&gt;An Error Has Occurred:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1585,7 +1586,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/dialogs/error_dialog.ui" line="77"/>
-        <source>Clicking &quot;Copy to PasteBin&quot; will copy a Pastebin URL to your clipboard.</source>
+        <source>Clicking "Copy to PasteBin" will copy a Pastebin URL to your clipboard.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1704,7 +1705,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/find_replace_commands.ui" line="35"/>
-        <source>Commands to search for, such as &apos;setblock;execute;playsound&apos;</source>
+        <source>Commands to search for, such as 'setblock;execute;playsound'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1714,7 +1715,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/find_replace_commands.ui" line="53"/>
-        <source>Target selectors, such as &apos;p;r;a;e&apos;</source>
+        <source>Target selectors, such as 'p;r;a;e'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1724,7 +1725,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/find_replace_commands.ui" line="67"/>
-        <source>Arguments, such as &apos;type=Creeper;r=10&apos;</source>
+        <source>Arguments, such as 'type=Creeper;r=10'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1990,7 +1991,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/find_replace_nbt.ui" line="160"/>
-        <source>Path to search in, such as &apos;Data/Player/Inventory&apos;</source>
+        <source>Path to search in, such as 'Data/Player/Inventory'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2030,7 +2031,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/find_replace_nbt.ui" line="287"/>
-        <source>Entity IDs, separted by &apos;;&apos;</source>
+        <source>Entity IDs, separted by ';'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2040,7 +2041,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/find_replace_nbt.ui" line="301"/>
-        <source>TileEntity IDs, separted by &apos;;&apos;</source>
+        <source>TileEntity IDs, separted by ';'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2050,7 +2051,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/find_replace_nbt.ui" line="321"/>
-        <source>Item IDs, separated by &apos;;&apos;</source>
+        <source>Item IDs, separated by ';'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2750,7 +2751,7 @@
     </message>
     <message>
         <location filename="src/mcedit2/ui/panels/player.ui" line="36"/>
-        <source>Camera to Player&apos;s View</source>
+        <source>Camera to Player's View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
