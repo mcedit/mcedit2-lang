@@ -25,5 +25,5 @@ for lang in langs:
     subprocess.check_call([ps_lrelease, i18n + "/%s.ts" % lang, "-qm",
                            build + "/%s.qm" % lang])
 
-subprocess.check_call([ps_lrelease, "/en.ts", "-qm",
+subprocess.check_call([ps_lrelease, langdir + "/en.ts", "-qm",
                        build + "/en.qm"])
