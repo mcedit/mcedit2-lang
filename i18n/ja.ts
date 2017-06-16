@@ -6,7 +6,7 @@
     <message>
         <location filename="src/mcedit2/editorapp.py" line="887"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完了</translation>
     </message>
 </context>
 <context>
@@ -14,12 +14,12 @@
     <message>
         <location filename="src/mcedit2/editorcommands/analyze.py" line="64"/>
         <source>Export as .csv</source>
-        <translation type="unfinished"></translation>
+        <translation>.csv 形式でエクスポートする</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editorcommands/analyze.py" line="80"/>
         <source>Export as .txt</source>
-        <translation type="unfinished"></translation>
+        <translation>.txt 形式でエクスポートする</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="src/mcedit2/editortools/brush/modes.py" line="172"/>
         <source>Biome</source>
-        <translation type="unfinished"></translation>
+        <translation>バイオーム</translation>
     </message>
     <message>
         <location filename="src/mcedit2/editortools/brush/modes.py" line="173"/>
@@ -40,7 +40,7 @@
     <message>
         <location filename="src/mcedit2/widgets/block_replacement_list.py" line="24"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完了</translation>
     </message>
     <message>
         <location filename="src/mcedit2/widgets/block_replacement_list.py" line="27"/>
