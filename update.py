@@ -10,9 +10,12 @@ ps_lupdate = path.join(ps_dir, "pyside-lupdate.exe")
 
 ps_lconvert = path.join(ps_dir, "lconvert.exe")
 
-git_repo = "https://github.com/mcedit2/mcedit2"
+git_repo = "https://github.com/mcedit/mcedit2"
 
-subprocess.check_call(['git', 'clone', '--depth=1', git_repo])
+if not path.exists("mcedit2"):
+  subprocess.check_call(['git', 'clone', '--depth=1', git_repo])
+else:
+  subprocess.check_call(['git', 'pull'], cwd="mcedit2")
 
 m2_dir = path.join(path.dirname(__file__), 'mcedit2', 'src', 'mcedit2')
 
@@ -48,7 +51,7 @@ langs = [ts[:-3] for ts in files if ts.endswith(".ts")]
 tsfiles = ["i18n/" + ts for ts in files if ts.endswith(".ts")]
 tsfiles.append("en.ts")
 
-for f in langs:
+for f in tsfiles:
     proj.write(f + "\\\n")
     
 proj.close()
