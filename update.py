@@ -46,6 +46,7 @@ proj.write("\nTRANSLATIONS = \\\n")
 files = os.listdir("i18n")
 langs = [ts[:-3] for ts in files if ts.endswith(".ts")]
 tsfiles = ["i18n/" + ts for ts in files if ts.endswith(".ts")]
+tsfiles.append("en.ts")
 
 for f in langs:
     proj.write(f + "\\\n")
