@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS><TS version="1.1" language="de">
+<!DOCTYPE TS>
+<TS version="1.1" language="de">
 <context>
     <name></name>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="961"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -13,12 +14,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorcommands/analyze.py" line="64"/>
         <source>Export as .csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Als CSV exportieren</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorcommands/analyze.py" line="80"/>
         <source>Export as .txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Als TXT exportieren</translation>
     </message>
 </context>
 <context>
@@ -26,12 +27,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="172"/>
         <source>Biome</source>
-        <translation type="unfinished"></translation>
+        <translation>Biom</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="173"/>
         <source>Fill Biome:</source>
-        <translation type="unfinished"></translation>
+        <translation>Biom füllen:</translation>
     </message>
 </context>
 <context>
@@ -39,17 +40,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="24"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="27"/>
         <source>Choose blocks to replace</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Blöcke zum Ersetzen auswählen</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="33"/>
         <source>Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert…</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="35"/>
@@ -62,17 +63,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="33"/>
         <source>Old Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte Blöcke</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="38"/>
         <source>New Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Blöcke</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="14"/>
         <source>Replace Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetze Blöcke</translation>
     </message>
 </context>
 <context>
@@ -80,7 +81,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/blockpicker_util.py" line="55"/>
         <source>No blocks selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Blöcke ausgewählt</translation>
     </message>
 </context>
 <context>
@@ -88,12 +89,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/prefsdialog/camera.py" line="18"/>
         <source>Camera View</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/prefsdialog/camera.py" line="25"/>
         <source>Max View Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Sichtweite</translation>
     </message>
 </context>
 <context>
@@ -106,22 +107,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="66"/>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspektive</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="70"/>
         <source>Show...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anzeigen…</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="73"/>
         <source>Work Plane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hilfsgitter</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="88"/>
         <source>View Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtweite:</translation>
     </message>
 </context>
 <context>
@@ -129,7 +130,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/chest.py" line="39"/>
         <source>Chest</source>
-        <translation type="unfinished"></translation>
+        <translation>Truhe</translation>
     </message>
 </context>
 <context>
@@ -137,7 +138,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="238"/>
         <source>Chunk</source>
-        <translation type="unfinished"></translation>
+        <translation>Chunk</translation>
     </message>
 </context>
 <context>
@@ -145,7 +146,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="152"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätigen</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="159"/>
@@ -666,7 +667,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inventory.py" line="466"/>
-        <source>Change item&apos;s raw ID</source>
+        <source>Change item's raw ID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1580,7 +1581,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="22"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;An Error Has Occurred:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:12pt;"&gt;An Error Has Occurred:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1605,7 +1606,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="77"/>
-        <source>Clicking &quot;Copy to PasteBin&quot; will copy a Pastebin URL to your clipboard.</source>
+        <source>Clicking "Copy to PasteBin" will copy a Pastebin URL to your clipboard.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1719,7 +1720,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="35"/>
-        <source>Commands to search for, such as &apos;setblock;execute;playsound&apos;</source>
+        <source>Commands to search for, such as 'setblock;execute;playsound'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1729,7 +1730,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="53"/>
-        <source>Target selectors, such as &apos;p;r;a;e&apos;</source>
+        <source>Target selectors, such as 'p;r;a;e'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1739,7 +1740,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="67"/>
-        <source>Arguments, such as &apos;type=Creeper;r=10&apos;</source>
+        <source>Arguments, such as 'type=Creeper;r=10'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2005,7 +2006,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="160"/>
-        <source>Path to search in, such as &apos;Data/Player/Inventory&apos;</source>
+        <source>Path to search in, such as 'Data/Player/Inventory'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2045,7 +2046,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="287"/>
-        <source>Entity IDs, separted by &apos;;&apos;</source>
+        <source>Entity IDs, separted by ';'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2055,7 +2056,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="301"/>
-        <source>TileEntity IDs, separted by &apos;;&apos;</source>
+        <source>TileEntity IDs, separted by ';'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2065,7 +2066,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="321"/>
-        <source>Item IDs, separated by &apos;;&apos;</source>
+        <source>Item IDs, separated by ';'</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2770,7 +2771,7 @@
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="36"/>
-        <source>Camera to Player&apos;s View</source>
+        <source>Camera to Player's View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
