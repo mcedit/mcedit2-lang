@@ -6,10 +6,16 @@ import subprocess
 
 ps_dir = path.dirname(PySide.__file__)
 
-ps_lupdate = path.join(ps_dir, "pyside-lupdate.exe")
+def get_pstool(name):
+    pth = path.join(ps_dir, name)
+    if os.name == "nt":
+        pth += ".exe"
 
-ps_lconvert = path.join(ps_dir, "lconvert.exe")
-ps_lrelease = path.join(ps_dir, "lrelease.exe")
+    return pth
+
+ps_lupdate = get_pstool("pyside-lupdate")
+ps_lconvert = get_pstool("lconvert")
+ps_lrelease = get_pstool("lrelease")
 
 langdir = path.dirname(__file__)
 i18n = path.join(langdir, "i18n")
