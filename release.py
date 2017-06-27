@@ -7,6 +7,9 @@ import subprocess
 ps_dir = path.dirname(PySide.__file__)
 
 def get_pstool(name):
+    pth = subprocess.check_output(["which", name])
+    if pth: return pth
+
     pth = path.join(ps_dir, name)
     if os.name == "nt":
         pth += ".exe"
