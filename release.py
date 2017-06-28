@@ -7,8 +7,10 @@ import subprocess
 ps_dir = path.dirname(PySide.__file__)
 
 def get_pstool(name):
-    pth = subprocess.check_output(["which", name])
-    if pth: return pth
+    try:
+        pth = subprocess.check_output(["which", name])
+        if pth: return pth.strip()
+    except: pass
 
     pth = path.join(ps_dir, name)
     if os.name == "nt":
