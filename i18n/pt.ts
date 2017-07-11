@@ -32,7 +32,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="173"/>
         <source>Fill Biome:</source>
-        <translation>Preencher Bioma</translation>
+        <translation>Preencher Bioma:</translation>
     </message>
 </context>
 <context>
@@ -151,7 +151,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="159"/>
         <source>Rotate Repeats</source>
-        <translation>Rotação Repete</translation>
+        <translation>Rotação Repete-se</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
@@ -496,7 +496,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1061"/>
         <source>Exporting structure blocks...</source>
-        <translation>Exportando blocos de estrutura</translation>
+        <translation>Exportando blocos de estrutura...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1108"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/generate.py" line="439"/>
         <source>Importing generated object...</source>
-        <translation>Importando objeto gerado</translation>
+        <translation>Importando objeto gerado...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/generate.py" line="442"/>
@@ -786,7 +786,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="333"/>
         <source>Failed to download version manifest. (Error code: %s)</source>
-        <translation>Falha ao baixar manifesto de versão. (Error code: %s)</translation>
+        <translation>Falha ao baixar manifesto de versão. (Error Code: %s)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="339"/>
@@ -1242,7 +1242,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="181"/>
         <source>Change Generator Random Seed</source>
-        <translation>Mudar Gerador Aleatório Seed</translation>
+        <translation>Mudar Gerador Aleatório de Seed</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="190"/>
@@ -1407,7 +1407,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="125"/>
         <source>Hollow</source>
-        <translation>Oco:</translation>
+        <translation>Oco</translation>
     </message>
 </context>
 <context>
@@ -1604,7 +1604,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="70"/>
         <source>Send this error report to the plugin or application developer to help get it fixed. </source>
-        <translation>Envie este relatório de erro para o desenvolvedor do plugin ou aplicação para ajudar a repara-lo. </translation>
+        <translation>Envie este relatório de erro para o desenvolvedor do plugin ou aplicação para ajudar a repará-lo. </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="77"/>
@@ -1700,7 +1700,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="101"/>
         <source>Find Again...</source>
-        <translation>Encontrar outra vez:</translation>
+        <translation>Encontrar outra vez...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="14"/>
@@ -1768,7 +1768,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="114"/>
         <source>Replace with...</source>
-        <translation>Substituir por...</translation>
+        <translation>Substituir com...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="122"/>
@@ -1856,7 +1856,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="110"/>
         <source>Progress:</source>
-        <translation>Progresso</translation>
+        <translation>Progresso:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="124"/>
@@ -2107,7 +2107,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="14"/>
         <source>Find and Replace...</source>
-        <translation>Encontrar e Substituir</translation>
+        <translation>Encontrar e Substituir...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="24"/>
@@ -2155,12 +2155,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="71"/>
         <source>Tiles High:</source>
-        <translation>Azulejos altos</translation>
+        <translation>Azulejos Altos:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="85"/>
         <source>Stretch Tiles:</source>
-        <translation>Azulejos Esticados</translation>
+        <translation>Azulejos Esticados:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="119"/>
@@ -2680,7 +2680,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="187"/>
         <source>Configure Blocks/Items...</source>
-        <translation>Configurar Blocos/Itens</translation>
+        <translation>Configurar Blocos/Itens...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="192"/>
@@ -2703,7 +2703,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="40"/>
         <source>Width:</source>
-        <translation>Largura</translation>
+        <translation>Largura:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="116"/>
