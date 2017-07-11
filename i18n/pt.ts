@@ -151,17 +151,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="159"/>
         <source>Rotate Repeats</source>
-        <translation type="unfinished">Rotação Repete</translation>
+        <translation>Rotação Repete</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
         <source>Rotate Offset</source>
-        <translation type="unfinished">Rotação Offset</translation>
+        <translation>Rotação Offset</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="170"/>
         <source>Repeat count: </source>
-        <translation type="unfinished">Repetir contagem </translation>
+        <translation>Repetir contagem </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="324"/>
@@ -2403,47 +2403,47 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="521"/>
         <source>Terrain Populated</source>
-        <translation>P</translation>
+        <translation>Terrain Populated</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="528"/>
         <source>Currently does nothing. Minecraft sets it after generating a chunk but never reads it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>De momento não faz nada. Minecraft define depois de gerar um chunk mas não o lê de novo.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="534"/>
         <source>Light Populated</source>
-        <translation type="unfinished"></translation>
+        <translation>Light Populated</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="565"/>
         <source>Time in ticks when this chunk was last updated. Recently played chunks will reflect the current in-game time, older chunks will have smaller values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo em ticks quando este chunk foi atualizado pela ultima vez. Chunks jogados recentemente iram refletir no tempo in-game de momento, chunks mais velhos iram ter valores semelhantes.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="552"/>
         <source>Update Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar Tempo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="604"/>
         <source>Number of ticks the player has spent in this chunk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de ticks que o jogador passou neste chunk.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="591"/>
         <source>Inhabited Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo Habitado</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="635"/>
         <source>NBT Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Data NBT</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="14"/>
         <source>Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspetor</translation>
     </message>
 </context>
 <context>
@@ -2451,67 +2451,67 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="14"/>
         <source>MCEdit - Minecraft Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit - Instalações de Minecraft</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="22"/>
         <source>Minecraft Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalações de Minecraft</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="186"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="61"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versões</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="196"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="79"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="216"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="223"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="119"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="126"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshots</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="152"/>
         <source>MultiMC Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalações MultiMC</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="191"/>
         <source>Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Instâncias</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="204"/>
         <source>MultiMC instances are automatically selected when a world from that instance is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instâncias MultiMC são selecionadas automaticamente quando o mundo dessa instância é carregada.</translation>
     </message>
 </context>
 <context>
@@ -2519,27 +2519,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/library.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/library.ui" line="24"/>
         <source>Schematics</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquemáticas</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/library.ui" line="55"/>
         <source>Open Schematics Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Pasta de Esquemáticas</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/library.ui" line="65"/>
         <source>Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapas</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/library.ui" line="91"/>
         <source>Custom Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocos Customizados</translation>
     </message>
 </context>
 <context>
@@ -2547,37 +2547,37 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="52"/>
         <source>Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Erros</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="81"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="110"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informações</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="139"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="173"/>
         <source>ShowErrorsToggle</source>
-        <translation type="unfinished"></translation>
+        <translation>ShowErrorsToggle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="176"/>
         <source>Show Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Erros</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="14"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logs</translation>
     </message>
 </context>
 <context>
@@ -2585,112 +2585,112 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="14"/>
         <source>MCEdit tech demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Demonstrações Tecnológicas MCEdit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="44"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="48"/>
         <source>Recent Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundos Recentes</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="66"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="72"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Janela</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="77"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="95"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="109"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>toolBar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="123"/>
         <source>New World...</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Mundo..</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="128"/>
         <source>Open World...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Mundo...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="133"/>
         <source>Show World List</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Lista de Mundos</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="138"/>
         <source>Close World</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar Mundo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="143"/>
         <source>Save World</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar Mundo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="148"/>
         <source>Save World As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar Mundo como...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="153"/>
         <source>Exit MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar MCEdit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="158"/>
         <source>About MCEdit 2...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir MCEdit 2...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="163"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="174"/>
         <source>Enable Lighting Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Atualizações de Luz</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="179"/>
         <source>Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferências...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="187"/>
         <source>Configure Blocks/Items...</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Blocos/Itens</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="192"/>
         <source>Plugins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="200"/>
         <source>Enable Developer Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Modo de Desenvolvedor</translation>
     </message>
 </context>
 <context>
@@ -2698,52 +2698,52 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="14"/>
         <source>Edit Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Mapas</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="40"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="116"/>
         <source>xx</source>
-        <translation type="unfinished"></translation>
+        <translation>xx</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="54"/>
         <source>Height: </source>
-        <translation type="unfinished"></translation>
+        <translation>Altura </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="84"/>
         <source>Currently editing in external editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>De momento a ser editado num editor externo.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="95"/>
         <source>Dimension: </source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensão: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="109"/>
         <source>Scale: </source>
-        <translation type="unfinished"></translation>
+        <translation>Escala: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="136"/>
         <source>Edit in External Editor...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar num Editor Externo...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="192"/>
         <source>Delete Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar Mapa</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="199"/>
         <source>Import Image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar Imagem...</translation>
     </message>
 </context>
 <context>
@@ -2751,12 +2751,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="29"/>
         <source>Move Selected Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover Objeto Selecionado</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="93"/>
         <source>Finish Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Acabar Movimento</translation>
     </message>
 </context>
 <context>
@@ -2764,42 +2764,42 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="14"/>
         <source>Edit Players</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Jogadores</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="22"/>
         <source>Player:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogador:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="36"/>
         <source>Camera to Player's View</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmera para Visão de Jogador</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="43"/>
         <source>Move Player to Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover Jogador para Câmera</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="56"/>
         <source>Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogador</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="62"/>
         <source>Inventory</source>
-        <translation type="unfinished"></translation>
+        <translation>Inventário</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="70"/>
         <source>All Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as Propriedades</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="87"/>
         <source>NBT Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Árvore NBT</translation>
     </message>
 </context>
 <context>
@@ -2807,12 +2807,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/plugins.ui" line="14"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/plugins.ui" line="66"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2820,12 +2820,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/preferences.ui" line="14"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferências</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/preferences.ui" line="70"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -2833,27 +2833,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/rotation_widget.ui" line="24"/>
         <source>Rot X:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rot X:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/rotation_widget.ui" line="124"/>
         <source>Rot90</source>
-        <translation type="unfinished"></translation>
+        <translation>Rot 90</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/rotation_widget.ui" line="62"/>
         <source>Rot Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rot Y:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/rotation_widget.ui" line="100"/>
         <source>Rot Z:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rot Z:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/rotation_widget.ui" line="14"/>
         <source>Rotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotações</translation>
     </message>
 </context>
 <context>
@@ -2861,27 +2861,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/scale_widget.ui" line="14"/>
         <source>Scales</source>
-        <translation type="unfinished"></translation>
+        <translation>Escalas</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/scale_widget.ui" line="24"/>
         <source>Scale X:</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala X:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/scale_widget.ui" line="103"/>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/scale_widget.ui" line="55"/>
         <source>Scale Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala Y:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/scale_widget.ui" line="86"/>
         <source>Scale Z:</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala Z:</translation>
     </message>
 </context>
 <context>
@@ -2889,7 +2889,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/select_block.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
 </context>
 <context>
@@ -2897,7 +2897,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/select_chunk.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
 </context>
 <context>
@@ -2905,12 +2905,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/select_entity.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/select_entity.ui" line="20"/>
         <source>Entities found:</source>
-        <translation type="unfinished"></translation>
+        <translation>Entidades encontradas:</translation>
     </message>
 </context>
 <context>
@@ -2918,32 +2918,32 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="29"/>
         <source>Edit Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Tamanho</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="38"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="123"/>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>para</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="72"/>
         <source>Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="106"/>
         <source>Z:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="20"/>
         <source>Selection Coords</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordenadas Selecionadas</translation>
     </message>
 </context>
 <context>
@@ -2951,137 +2951,137 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="14"/>
         <source>Edit World Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Informação do Mundo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="27"/>
         <source>World Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação do Mundo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="33"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="39"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="52"/>
         <source>Allow Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Comandos Permitidos</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="62"/>
         <source>Game Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições de Jogo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="70"/>
         <source>Difficulty:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dificuldade:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="80"/>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Trancado</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="87"/>
         <source>Hardcore</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardcore</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="112"/>
         <source>Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerador</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="120"/>
         <source>Seed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seed:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="143"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="161"/>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="176"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="187"/>
         <source>Day: </source>
-        <translation type="unfinished"></translation>
+        <translation>Dia: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="204"/>
         <source>Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="211"/>
         <source>11:15</source>
-        <translation type="unfinished"></translation>
+        <translation>11:15</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="228"/>
         <source>Midnight</source>
-        <translation type="unfinished"></translation>
+        <translation>Meia Noite</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="257"/>
         <source>Dawn</source>
-        <translation type="unfinished"></translation>
+        <translation>Amanhecer</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="295"/>
         <source>Noon</source>
-        <translation type="unfinished"></translation>
+        <translation>Meio Dia</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="324"/>
         <source>Evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Pôr do Sol</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="372"/>
         <source>Spawn</source>
-        <translation type="unfinished"></translation>
+        <translation>Spawn</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="380"/>
         <source>Default Game Mode (Multiplayer):</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Jogo Padrão (Multi-Jogador):</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="407"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="417"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="427"/>
         <source>Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="469"/>
         <source>NBT Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Árvore NBT</translation>
     </message>
 </context>
 <context>
@@ -3089,77 +3089,77 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="14"/>
         <source>MCEdit - World List</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit - Lista de Mundos</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="38"/>
         <source>Minecraft Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar Minecraft</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="64"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versões</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="90"/>
         <source>Resource Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacote de Recursos</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="100"/>
         <source>Configure Installs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Instalações...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="134"/>
         <source>Recent Worlds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundos Recentes...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="155"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="184"/>
         <source>Choose...</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolher...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="218"/>
         <source>Open another world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir outro mundo...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="261"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="284"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="291"/>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="298"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="305"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visão</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
         <source>Show world list</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar lista de mundo</translation>
     </message>
 </context>
 </TS>
