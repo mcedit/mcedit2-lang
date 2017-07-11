@@ -6,10 +6,21 @@ import subprocess
 
 ps_dir = path.dirname(PySide.__file__)
 
-ps_lupdate = path.join(ps_dir, "pyside-lupdate.exe")
+def get_pstool(name):
+    try:
+        pth = subprocess.check_output(["which", name])
+        if pth: return pth.strip()
+    except: pass
 
-ps_lconvert = path.join(ps_dir, "lconvert.exe")
-ps_lrelease = path.join(ps_dir, "lrelease.exe")
+    pth = path.join(ps_dir, name)
+    if os.name == "nt":
+        pth += ".exe"
+
+    return pth
+
+ps_lupdate = get_pstool("pyside-lupdate")
+ps_lconvert = get_pstool("lconvert")
+ps_lrelease = get_pstool("lrelease")
 
 langdir = path.dirname(__file__)
 i18n = path.join(langdir, "i18n")
@@ -25,5 +36,5 @@ for lang in langs:
     subprocess.check_call([ps_lrelease, i18n + "/%s.ts" % lang, "-qm",
                            build + "/%s.qm" % lang])
 
-subprocess.check_call([ps_lrelease, "/en.ts", "-qm",
+subprocess.check_call([ps_lrelease, langdir + "/en.ts", "-qm",
                        build + "/en.qm"])
