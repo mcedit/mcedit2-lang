@@ -32,7 +32,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="173"/>
         <source>Fill Biome:</source>
-        <translation type="unfinished">Remplir d'un Biome :</translation>
+        <translation>Remplir un Biome :</translation>
     </message>
 </context>
 <context>
@@ -81,7 +81,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/blockpicker_util.py" line="55"/>
         <source>No blocks selected</source>
-        <translation type="unfinished">Pas de sélection des blocs</translation>
+        <translation>Aucun blocs selectionné</translation>
     </message>
 </context>
 <context>
@@ -89,12 +89,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/prefsdialog/camera.py" line="18"/>
         <source>Camera View</source>
-        <translation type="unfinished">Vue de Caméra</translation>
+        <translation>Vue depuis la Caméra</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/prefsdialog/camera.py" line="25"/>
         <source>Max View Distance</source>
-        <translation type="unfinished">Distance Maximal de Vue</translation>
+        <translation>Distance de vue maximal</translation>
     </message>
 </context>
 <context>
@@ -117,7 +117,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="73"/>
         <source>Work Plane</source>
-        <translation type="unfinished">Plan pour Travailler</translation>
+        <translation>Plan de travail</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="88"/>
@@ -151,7 +151,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="159"/>
         <source>Rotate Repeats</source>
-        <translation type="unfinished">Pivoter les Copies</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
@@ -331,7 +331,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="331"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished">Trouver/Remplacer les Données de NBT</translation>
+        <translation type="unfinished">Trouver/Remplacer les Données du NBT</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="340"/>
