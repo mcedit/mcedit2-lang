@@ -3099,12 +3099,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="64"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="90"/>
         <source>Resource Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressources Pack</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="100"/>
@@ -3134,12 +3134,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="261"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditer</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="284"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="291"/>
@@ -3149,7 +3149,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="298"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Réparer</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="305"/>
@@ -3159,7 +3159,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
         <source>Show world list</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer la liste des mondes</translation>
     </message>
 </context>
 </TS>
