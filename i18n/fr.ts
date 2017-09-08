@@ -14,12 +14,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorcommands/analyze.py" line="64"/>
         <source>Export as .csv</source>
-        <translation type="unfinished">Exporter en .csv</translation>
+        <translation>Exporter en .csv</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorcommands/analyze.py" line="80"/>
         <source>Export as .txt</source>
-        <translation type="unfinished">Exporter en .txt</translation>
+        <translation>Exporter en .txt</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="33"/>
         <source>Old Blocks</source>
-        <translation type="unfinished">Anciens Blocs</translation>
+        <translation>Anciens Blocs</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="38"/>
@@ -156,12 +156,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
         <source>Rotate Offset</source>
-        <translation type="unfinished">Pivoter la Compensation</translation>
+        <translation>Pivoter la Compensation</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="170"/>
         <source>Repeat count: </source>
-        <translation type="unfinished">Quantité des Copies : </translation>
+        <translation>Quantité des Copies : </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="324"/>
@@ -251,7 +251,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="191"/>
         <source>MCEdit may have crashed. An undo history was found for this world. You may try to resume editing with the saved undo history, or start over with the current state of the world.</source>
-        <translation type="unfinished">Il se peut que MCEdit ait planté. Une historique des modifications a trouvé pour ce monde. Vous essaieriez reprendre éditer avec l'historique sauvegardé des modifications, ou recommencer avec l'état actuel du monde.</translation>
+        <translation>Il se peut que MCEdit ait planté. Un historique des modifications a été trouvé pour ce monde. Vous essaieriez de reprendre l'édition avec l'historique sauvegardé des modifications, ou recommencer avec l'état actuel du monde.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="217"/>
@@ -331,7 +331,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="331"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished">Trouver/Remplacer les Données du NBT</translation>
+        <translation>Trouver/Remplacer les Données du NBT</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="340"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="882"/>
         <source>Select All</source>
-        <translation type="unfinished">Sélectionner Tout</translation>
+        <translation>Sélectionner Tout</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="887"/>
@@ -366,7 +366,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="369"/>
         <source>Export Structure Block .nbt</source>
-        <translation type="unfinished">Exporter un Fichier pour le Bloc de Structure</translation>
+        <translation>Exporter un Fichier pour le Bloc de Structure</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="972"/>
@@ -376,7 +376,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="376"/>
         <source>Show Exports Library</source>
-        <translation type="unfinished">Montrer le Bibliothèque des Exportations</translation>
+        <translation>Montrer le Bibliothèque des Exportations</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="386"/>
@@ -426,7 +426,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="612"/>
         <source>Changing to resource pack %s</source>
-        <translation type="unfinished">Change au pack de ressources «%s»</translation>
+        <translation>Change au pack de ressources «%s»</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="628"/>
@@ -436,12 +436,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="629"/>
         <source>Changing to Minecraft version %s</source>
-        <translation type="unfinished">Change à la version de Minecraft «%s»</translation>
+        <translation>Change à la version de Minecraft «%s»</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
         <source>(Not set)</source>
-        <translation type="unfinished">(Pas fixé)</translation>
+        <translation>(Pas fixé)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
@@ -506,7 +506,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1336"/>
         <source> (read-only)</source>
-        <translation type="unfinished"></translation>
+        <translation> (lecture seulement)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="897"/>
@@ -550,7 +550,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="99"/>
         <source>Fill Block:</source>
-        <translation type="unfinished">Bloc pour Remplir :</translation>
+        <translation>Bloc pour Remplir :</translation>
     </message>
 </context>
 <context>
@@ -635,7 +635,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/__init__.py" line="246"/>
         <source>(Not set)</source>
-        <translation type="unfinished">(Pas fixé)</translation>
+        <translation>(Pas fixé)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/__init__.py" line="324"/>
@@ -711,12 +711,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="454"/>
         <source>Heap Trace (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trace de tas (lent)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="456"/>
         <source>Collect Garbage</source>
-        <translation type="unfinished">Ramasser les Déchets</translation>
+        <translation>Ramasser les Déchets</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="764"/>
@@ -726,7 +726,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="845"/>
         <source>Open World, Level or Schematic</source>
-        <translation type="unfinished">Ouvrir un Monde, Niveau ou Schéma</translation>
+        <translation>Ouvrir un Monde, Niveau ou Schéma</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="120"/>
@@ -747,7 +747,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="227"/>
         <source>Download Minecraft</source>
-        <translation type="unfinished">Télécharger Minecraft</translation>
+        <translation>Télécharger Minecraft</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="228"/>
@@ -774,7 +774,7 @@
         <source>An error occured while downloading Minecraft from the official servers.
 
 </source>
-        <translation type="unfinished">Une erreur s'a produit en téléchargement de Minecraft des serveurs officiels.
+        <translation>Une erreur s'a produit en téléchargement de Minecraft des serveurs officiels.
 
 </translation>
     </message>
@@ -816,17 +816,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="381"/>
         <source>Failed to parse version info file. (Exception: %s)</source>
-        <translation type="unfinished">Il n'a pas réussi à analyser le fichier des informations de la version. (Exception: %s)</translation>
+        <translation>Il n'a pas réussi à analyser le fichier des informations de la version. (Exception: %s)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="388"/>
         <source>Downloading Minecraft jar</source>
-        <translation type="unfinished">Télécharge le fichier «.jar» du Minecraft</translation>
+        <translation>Télécharge le fichier «.jar» de Minecraft</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="396"/>
         <source>Failed to download Minecraft jar. (Error code: %s)</source>
-        <translation type="unfinished">Il n'a pas réussi à télécharger le fichier «.jar» du Minecraft. (Code d'erreur: %s)</translation>
+        <translation>Il n'a pas réussi à télécharger le fichier «.jar» du Minecraft. (Code d'erreur: %s)</translation>
     </message>
 </context>
 <context>
@@ -872,7 +872,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="297"/>
         <source>Clearing...</source>
-        <translation type="unfinished">Déblaie...</translation>
+        <translation>Déblaie...</translation>
     </message>
 </context>
 <context>
@@ -990,22 +990,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/select.py" line="160"/>
         <source>Box Selection</source>
-        <translation type="unfinished">Sélection en Boîte</translation>
+        <translation>Sélection en Boîte</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/qglcontext.py" line="62"/>
         <source>OpenGL Error</source>
-        <translation type="unfinished">Erreur d'OpenGL</translation>
+        <translation>Erreur d'OpenGL</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/qglcontext.py" line="64"/>
         <source>OpenGL 1.3 or greater is required. MCEdit was unable to start up OpenGL.</source>
-        <translation type="unfinished">OpenGL 1.3 ou plus grand est nécessaire. MCEdit n'a pas pu démarrer OpenGL.</translation>
+        <translation>OpenGL 1.3 ou une version plus récente est nécessaire. MCEdit n'a pas pu démarrer OpenGL.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/qglcontext.py" line="68"/>
         <source>Could not create a usable OpenGL context. Verify that your graphics drivers are installed correctly.</source>
-        <translation type="unfinished">Il n'a pas pu créer un contexte utilisable d'OpenGL. Confirmez que vos pilotes des graphismes sont installés correctement.</translation>
+        <translation>Il n'a pas pu créer un contexte utilisable d'OpenGL. Vérifiez que vos pilotes des graphismes sont installés correctement.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="77"/>
@@ -1101,17 +1101,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="149"/>
         <source>Middle Button</source>
-        <translation type="unfinished">Bouton au Centre</translation>
+        <translation>Bouton au Centre</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="150"/>
         <source>Mousewheel Up</source>
-        <translation type="unfinished">Molette Qui Monte</translation>
+        <translation>Molette Qui Monte</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="151"/>
         <source>Mousewheel Down</source>
-        <translation type="unfinished">Molette en Bas</translation>
+        <translation>Molette en Bas</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="158"/>
@@ -1237,7 +1237,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="172"/>
         <source>Change Level Name</source>
-        <translation type="unfinished">Changer le Nom du Niveau</translation>
+        <translation>Changer le Nom du Niveau</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="181"/>
@@ -1252,7 +1252,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="200"/>
         <source>Change Default Gamemode</source>
-        <translation type="unfinished">Changer la Mode de Jeu par Défaut</translation>
+        <translation>Changer la Mode de Jeu par Défaut</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="210"/>
@@ -1267,7 +1267,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="236"/>
         <source>Change Spawn Coordinates</source>
-        <translation type="unfinished">Changer les Coordonnées du Spawn</translation>
+        <translation>Changer les Coordonnées du Spawn</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="247"/>
@@ -1277,7 +1277,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="272"/>
         <source>Change Hardcore</source>
-        <translation type="unfinished">Changer le Valeur de l'Hardcore</translation>
+        <translation>Changer le Valeur de l'Hardcore</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="281"/>
@@ -1287,7 +1287,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="290"/>
         <source>Change Allow Commands</source>
-        <translation type="unfinished">Changer le Valeur de «Permettre les Commandes»</translation>
+        <translation>Changer le Valeur des Commandes</translation>
     </message>
 </context>
 <context>
@@ -1498,7 +1498,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="213"/>
         <source>Model Preview</source>
-        <translation type="unfinished">Avant-première du Modèle</translation>
+        <translation>Prévisualisation du modèle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="234"/>
@@ -1508,7 +1508,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="259"/>
         <source>TexVar</source>
-        <translation type="unfinished"></translation>
+        <translation>variable de texte</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="264"/>
@@ -1584,7 +1584,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="22"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:12pt;"&gt;An Error Has Occurred:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; 1&lt;head/&gt; 2&lt;body&gt; 3&lt;p&gt; 4&lt;span style=" font-size:12pt;"&gt; 5An Une erreur s'est produite:&lt;/span&gt; 6&lt;/p&gt; 7&lt;/body&gt; 8&lt;/html&gt; 9</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="41"/>
@@ -1594,7 +1594,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="53"/>
         <source>It is recommended to undo the last command, save your work, and restart MCEdit.</source>
-        <translation type="unfinished">Il est recommandé d'annulez la commande dernière, sauvegardez votre travail, et redémarrez MCEdit.</translation>
+        <translation>Il est recommandé d'annulez la dernière commande, sauvegardez votre travail, et redémarrez MCEdit.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="60"/>
@@ -1604,12 +1604,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="70"/>
         <source>Send this error report to the plugin or application developer to help get it fixed. </source>
-        <translation type="unfinished">Envoyez le bulletin d'erreur au développeur du plugin ou logiciel pour l'aider devenir reparer. </translation>
+        <translation>Envoyez le rapport d'erreur au développeur du plugin ou logiciel pour l'aider à reparer. </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="77"/>
         <source>Clicking "Copy to PasteBin" will copy a Pastebin URL to your clipboard.</source>
-        <translation type="unfinished">À cliquer «Copier à Pastebin», un URL de Pastebin aura copié à votre press-papiers.</translation>
+        <translation>cliquer sur «Copier à Pastebin», un URL de Pastebin sera copié dans votre press-papiers.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="106"/>
@@ -1705,7 +1705,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="14"/>
         <source>Find/Replace Command Results</source>
-        <translation type="unfinished">Rechercher/Remplacer les Résultats de Commande</translation>
+        <translation>Rechercher/Remplacer les Résultats de Commande</translation>
     </message>
 </context>
 <context>
@@ -1773,12 +1773,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="122"/>
         <source>Replace Text:</source>
-        <translation type="unfinished">Texte de Remplaçant :</translation>
+        <translation>Texte de Remplaçant :</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="129"/>
         <source>Replace the matching command text with this</source>
-        <translation type="unfinished">Remplacer le texte coordonné du commande de ce :</translation>
+        <translation>Remplacer le texte coordonnée de la commande de ce :</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="169"/>
@@ -1866,7 +1866,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="131"/>
         <source>Replace Selected</source>
-        <translation type="unfinished">Remplacer les Sélectionnés</translation>
+        <translation>Remplacer les éléments Sélectionnés</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="138"/>
@@ -1876,7 +1876,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="145"/>
         <source>Remove Selected</source>
-        <translation type="unfinished">Enlever les Sélectionnés</translation>
+        <translation>Enlever les éléments Sélectionnés</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="152"/>
@@ -1891,7 +1891,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="14"/>
         <source>Find/Replace NBT Results</source>
-        <translation type="unfinished">Rechercher/Remplacer les Résultats de NBT</translation>
+        <translation>Rechercher/Remplacer les Résultats NBT</translation>
     </message>
 </context>
 <context>
@@ -1904,7 +1904,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="28"/>
         <source>Tag Names</source>
-        <translation type="unfinished">Noms de Tag</translation>
+        <translation>Noms de Tag</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="38"/>
@@ -2004,7 +2004,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="151"/>
         <source>Tag Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin du tag :</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="160"/>
