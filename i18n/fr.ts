@@ -527,7 +527,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="106"/>
         <source>Uploading to pastebin...</source>
-        <translation type="unfinished">Télécharger vers Pastebin...</translation>
+        <translation>Télécharger vers Pastebin...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="119"/>
@@ -844,7 +844,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/map.py" line="177"/>
         <source>Import Image as Map</source>
-        <translation type="unfinished">Importer Image en tant que Carte</translation>
+        <translation>Importer Image en tant que Carte</translation>
     </message>
 </context>
 <context>
@@ -1333,7 +1333,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="69"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
@@ -1538,7 +1538,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="372"/>
         <source>Use this window to tell MCEdit about blocks and items added to Minecraft by any mods you are using. You cannot use this to create new blocks or add new blocks to Minecraft.</source>
-        <translation type="unfinished">Utilisez cette fenêtre pour indiquer à MCEdit les blocs et objets ajoutés à Minecraft via des mods que vous utilisez. Vous ne pouvez pas l'utiliser pour créer ou ajouter de nouveaux blocs à Minecraft.</translation>
+        <translation>Utilisez cette fenêtre pour indiquer à MCEdit les blocs et objets ajoutés à Minecraft via des mods que vous utilisez. Vous ne pouvez pas utiliser cela pour créer ou ajouter de nouveaux blocs à Minecraft.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="397"/>
@@ -2009,12 +2009,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="160"/>
         <source>Path to search in, such as 'Data/Player/Inventory'</source>
-        <translation type="unfinished">Chemin à consulter, par exemple "Data/Player/Inventory"</translation>
+        <translation>Chemin à chercher, par exemple "Data/Player/Inventory"</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="167"/>
         <source>?</source>
-        <translation type="unfinished">?</translation>
+        <translation>?</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="181"/>
@@ -2024,47 +2024,47 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="192"/>
         <source>Replace Name With:</source>
-        <translation type="unfinished">Remplacer le Nom Par :</translation>
+        <translation>Remplacer le Nom par :</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="202"/>
         <source>Replace Value With:</source>
-        <translation type="unfinished">Remplacer la Valeur Par :</translation>
+        <translation>Remplacer la Valeur par :</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="222"/>
         <source>Existing</source>
-        <translation type="unfinished">Existant</translation>
+        <translation>Existant</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="272"/>
         <source>Search in...</source>
-        <translation type="unfinished">Rechercher...</translation>
+        <translation>Rechercher...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="280"/>
         <source>Search Entities</source>
-        <translation type="unfinished">Rechercher des Entités</translation>
+        <translation>Rechercher des Entités</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="287"/>
         <source>Entity IDs, separted by ';'</source>
-        <translation type="unfinished">ID des Entités, séparés par ";"</translation>
+        <translation>ID des Entités, séparés par ';'</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="294"/>
         <source>Search Tile Entities</source>
-        <translation type="unfinished">Rechercher Entités de Blocs</translation>
+        <translation>Rechercher Entités de Blocs</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="301"/>
         <source>TileEntity IDs, separted by ';'</source>
-        <translation type="unfinished">ID des Entités de Blocs, séparés par ";"</translation>
+        <translation>ID des Entités de Blocs, séparés par " ; "</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="311"/>
         <source>Search Items</source>
-        <translation type="unfinished">Rechercher Objets</translation>
+        <translation>Rechercher Objets</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="321"/>
