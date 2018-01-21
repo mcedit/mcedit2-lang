@@ -1400,7 +1400,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="106"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modus:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="125"/>
@@ -1431,7 +1431,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="17"/>
         <source>Configure Blocks/Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguriere Blöcke/Objekte</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="27"/>
@@ -1456,12 +1456,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="97"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="114"/>
         <source>X rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>X-Rotation:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="184"/>
@@ -1486,12 +1486,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="145"/>
         <source>Y rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-Rotation:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="176"/>
         <source>Z rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z-Rotation:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="213"/>
@@ -1511,7 +1511,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="264"/>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textur</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="269"/>
@@ -1531,12 +1531,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="366"/>
         <source>Note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bemerkung:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="372"/>
         <source>Use this window to tell MCEdit about blocks and items added to Minecraft by any mods you are using. You cannot use this to create new blocks or add new blocks to Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Fenster dient der Angabe aller Blöcke oder Objekte, die von evtl. verwendeten Mods hinzugefügt wurden. Hier können keine neuen Blöcke erzeugt oder hinzugefügt werden.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="397"/>
@@ -1554,22 +1554,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/coord_widget.ui" line="28"/>
         <source>Relative</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativ</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/coord_widget.ui" line="35"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/coord_widget.ui" line="52"/>
         <source>Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/coord_widget.ui" line="69"/>
         <source>Z:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z:</translation>
     </message>
 </context>
 <context>
@@ -1577,22 +1577,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="14"/>
         <source>MCEdit Error</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Fehler</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="22"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:12pt;"&gt;An Error Has Occurred:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:12pt;"&gt;Folgender Fehler ist aufgetreten:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="41"/>
         <source>(no error yet!)</source>
-        <translation type="unfinished"></translation>
+        <translation>(bisher kein Fehler!)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="53"/>
         <source>It is recommended to undo the last command, save your work, and restart MCEdit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es wird empfohlen den letzten Befehl rückgängig zu machen und MCEdit neu zu starten.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="60"/>
@@ -1602,7 +1602,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="70"/>
         <source>Send this error report to the plugin or application developer to help get it fixed. </source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte den Fehlerbericht an den Plugin- oder Anwendungsentwickler schicken um zu helfen ihn zu beheben. </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="77"/>
@@ -3132,32 +3132,32 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="261"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändern</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="284"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="291"/>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherheitskopie</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="298"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparieren</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="305"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
         <source>Show world list</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste der Welten anzeigen</translation>
     </message>
 </context>
 </TS>
