@@ -1227,7 +1227,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="47"/>
         <source>Debug All Block States</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Limpiar Todos Los Bloques</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="143"/>
@@ -1242,22 +1242,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="181"/>
         <source>Change Generator Random Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Generador Semilla Aleatoria</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="190"/>
         <source>Change Generator Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cambiar las opciones del generador</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="200"/>
         <source>Change Default Gamemode</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar modo de juego predeterminado</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="210"/>
         <source>Change Difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar dificultad</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="226"/>
