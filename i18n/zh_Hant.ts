@@ -2160,7 +2160,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="85"/>
         <source>Stretch Tiles:</source>
-        <translation type="unfinished">延長塊</translation>
+        <translation>延長塊：</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="119"/>
@@ -2358,12 +2358,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="421"/>
         <source>UUID:</source>
-        <translation type="unfinished">UUID:</translation>
+        <translation>UUID:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="428"/>
         <source>(uuid)</source>
-        <translation type="unfinished">(uuid)</translation>
+        <translation>(uuid)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="453"/>
@@ -2413,7 +2413,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="534"/>
         <source>Light Populated</source>
-        <translation type="unfinished">充滿光</translation>
+        <translation>充滿光</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="565"/>
@@ -2433,7 +2433,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="591"/>
         <source>Inhabited Time</source>
-        <translation type="unfinished">居住時間</translation>
+        <translation>居住時間</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="635"/>
@@ -2567,7 +2567,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="173"/>
         <source>ShowErrorsToggle</source>
-        <translation type="unfinished">顯示錯誤切換</translation>
+        <translation>顯示錯誤切換</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="176"/>
@@ -2708,7 +2708,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="116"/>
         <source>xx</source>
-        <translation type="unfinished">xx</translation>
+        <translation>xx</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="54"/>
@@ -2861,7 +2861,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/scale_widget.ui" line="14"/>
         <source>Scales</source>
-        <translation type="unfinished">比例</translation>
+        <translation>比例</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/scale_widget.ui" line="24"/>
@@ -2991,12 +2991,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="87"/>
         <source>Hardcore</source>
-        <translation type="unfinished">硬核心</translation>
+        <translation>核心</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="112"/>
         <source>Generator</source>
-        <translation type="unfinished">發電機</translation>
+        <translation>触发</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="120"/>
