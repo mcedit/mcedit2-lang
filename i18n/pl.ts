@@ -286,7 +286,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="260"/>
         <source>Paste Entities</source>
-        <translation type="unfinished">Wklej Byty</translation>
+        <translation>Wklej Byty</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="270"/>
@@ -550,7 +550,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="98"/>
         <source>Fill</source>
-        <translation type="unfinished">Wypełnij</translation>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="99"/>
@@ -573,7 +573,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="14"/>
         <source>Find/Replace Blocks</source>
-        <translation type="unfinished">Znajdź/Zamień Bloki</translation>
+        <translation>Znajdź/Podmień Bloki</translation>
     </message>
 </context>
 <context>
