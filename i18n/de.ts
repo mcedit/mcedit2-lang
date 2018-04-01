@@ -171,7 +171,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="355"/>
         <source>Pasting...</source>
-        <translation type="unfinished">Wird eingefügt...</translation>
+        <translation>Wird eingefügt...</translation>
     </message>
 </context>
 <context>
