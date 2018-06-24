@@ -476,17 +476,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1003"/>
         <source>Structure Block Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opções de Estrutura de Blocos</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1010"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1015"/>
         <source>Excluded Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocos Excluídos</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1052"/>
