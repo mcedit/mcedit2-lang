@@ -491,22 +491,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1052"/>
         <source>Structure Block Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de Blocos de Estrutura</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1061"/>
         <source>Exporting structure blocks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportando blocos de estrutura...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1108"/>
         <source>Import map %(mapID)s</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar mapa %(mapID)s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1336"/>
         <source> (read-only)</source>
-        <translation type="unfinished"></translation>
+        <translation> (somente-leitura)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="897"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1549"/>
         <source> Tool Options</source>
-        <translation type="unfinished"></translation>
+        <translation> Opções de Ferramentas</translation>
     </message>
 </context>
 <context>
@@ -527,12 +527,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="106"/>
         <source>Uploading to pastebin...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando para pastebin...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="119"/>
         <source>Failed to upload to pastebin: </source>
-        <translation type="unfinished"></translation>
+        <translation>Envio para pastebin falhou: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="127"/>
@@ -545,7 +545,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="98"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Preencher</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="99"/>
@@ -558,12 +558,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="45"/>
         <source>In Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Em seleção</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="55"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="14"/>
