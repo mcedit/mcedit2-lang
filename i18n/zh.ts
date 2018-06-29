@@ -6,7 +6,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="961"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>正常</translation>
     </message>
 </context>
 <context>
@@ -32,7 +32,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="173"/>
         <source>Fill Biome:</source>
-        <translation>冯家生物群系：</translation>
+        <translation>填充生物群系：</translation>
     </message>
 </context>
 <context>
@@ -40,7 +40,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="24"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="27"/>
@@ -156,7 +156,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
         <source>Rotate Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转偏移值</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="170"/>
@@ -166,7 +166,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="324"/>
         <source>&lt;Cloned Object&gt;</source>
-        <translation type="unfinished">&lt;被克隆的对象&gt;</translation>
+        <translation>&lt;克隆的对象&gt;</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="355"/>
@@ -194,17 +194,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="30"/>
         <source>Go To Command</source>
-        <translation type="unfinished"></translation>
+        <translation>转到指令</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="31"/>
         <source>Go To Target</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">转到目标</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="32"/>
         <source>Go To Indirect Target</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">转到间接目标</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="37"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="201"/>
         <source>Cylinder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">圆筒</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="171"/>
         <source>Diamond</source>
-        <translation>菱形</translation>
+        <translation type="unfinished">钻石</translation>
     </message>
 </context>
 <context>
@@ -233,7 +233,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/chest.py" line="48"/>
         <source>Dispenser</source>
-        <translation type="unfinished"></translation>
+        <translation>发射器</translation>
     </message>
 </context>
 <context>
@@ -246,12 +246,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="187"/>
         <source>This world was not properly closed by MCEdit.</source>
-        <translation>这个世界没有被MCEdit关闭。</translation>
+        <translation>这个世界没有正确地被MCEdit关闭。</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="191"/>
         <source>MCEdit may have crashed. An undo history was found for this world. You may try to resume editing with the saved undo history, or start over with the current state of the world.</source>
-        <translation>MCEdit可能已经崩溃。已为这个世界找到一条撤销历史记录。你可以尝试使用已保存的撤销历史记录来恢复数据，或重新编辑当前世界。</translation>
+        <translation>MCEdit可能已经崩溃，已为这个世界找到一条撤销历史记录，你可以尝试使用已保存的撤销历史记录来恢复数据，或重新编辑当前世界。</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="217"/>
@@ -301,162 +301,162 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="286"/>
         <source>Delete Entities And Items</source>
-        <translation type="unfinished"></translation>
+        <translation>删除实体和物品</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="296"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="306"/>
         <source>Find Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>查找方块</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="312"/>
         <source>Find/Replace Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>查找/替换方块</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="319"/>
         <source>Find/Replace Items</source>
-        <translation type="unfinished"></translation>
+        <translation>查找/替换物品</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="325"/>
         <source>Find/Replace Command Text</source>
-        <translation type="unfinished"></translation>
+        <translation>查找/替换命令文本</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="331"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished"></translation>
+        <translation>查找/替换NBT数据</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="340"/>
         <source>Analyze</source>
-        <translation type="unfinished"></translation>
+        <translation>分析</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="349"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>选择</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="882"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="887"/>
         <source>Deselect</source>
-        <translation type="unfinished"></translation>
+        <translation>取消选择</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="363"/>
         <source>Import/Export</source>
-        <translation type="unfinished"></translation>
+        <translation>导入/导出</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1050"/>
         <source>Export Schematic</source>
-        <translation type="unfinished"></translation>
+        <translation>导出 schematic</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="369"/>
         <source>Export Structure Block .nbt</source>
-        <translation type="unfinished"></translation>
+        <translation>导出结构至nbt文件</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="972"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>导入</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="376"/>
         <source>Show Exports Library</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示导出库</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="386"/>
         <source>Chunk</source>
-        <translation type="unfinished"></translation>
+        <translation>区块</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="906"/>
         <source>Delete Chunks</source>
-        <translation type="unfinished"></translation>
+        <translation>删除区块</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="390"/>
         <source>Create Chunks</source>
-        <translation type="unfinished"></translation>
+        <translation>创建区块</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="391"/>
         <source>Mark Chunks For Repopulation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记区块再生</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="393"/>
         <source>Unmark Chunks For Repopulation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消标记区块再生</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="437"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="528"/>
         <source>Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>旁观者</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="647"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>（默认）</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="611"/>
         <source>Changing resource pack...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在更换材质包...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="612"/>
         <source>Changing to resource pack %s</source>
-        <translation type="unfinished"></translation>
+        <translation>已将材质包切换为 %s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="628"/>
         <source>Changing Minecraft version...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在切换 Minecraft 版本...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="629"/>
         <source>Changing to Minecraft version %s</source>
-        <translation type="unfinished"></translation>
+        <translation>已将 Minecraft 版本切换为 %s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
         <source>(Not set)</source>
-        <translation type="unfinished"></translation>
+        <translation>(未设置)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
         <source>Minecraft Version: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft 版本：%s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="647"/>
         <source>Resource Pack: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>材质包：%s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="810"/>
         <source>&lt;Pasted Object&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;粘贴 Object&gt;</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="917"/>
@@ -471,42 +471,42 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="950"/>
         <source>Dimension: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>世界维度：%s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1003"/>
         <source>Structure Block Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">结构方块选项</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1010"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>作者</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1015"/>
         <source>Excluded Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>排除方块</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1052"/>
         <source>Structure Block Files</source>
-        <translation type="unfinished"></translation>
+        <translation>结构方块文件</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1061"/>
         <source>Exporting structure blocks...</source>
-        <translation type="unfinished"></translation>
+        <translation>导出结构方块...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1108"/>
         <source>Import map %(mapID)s</source>
-        <translation type="unfinished"></translation>
+        <translation>导入地图 %(地图id)s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1336"/>
         <source> (read-only)</source>
-        <translation type="unfinished"></translation>
+        <translation> (只读)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="897"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1549"/>
         <source> Tool Options</source>
-        <translation type="unfinished"></translation>
+        <translation> 工具选项</translation>
     </message>
 </context>
 <context>
@@ -545,12 +545,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="98"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="99"/>
         <source>Fill Block:</source>
-        <translation type="unfinished"></translation>
+        <translation>填充方块：</translation>
     </message>
 </context>
 <context>
@@ -563,7 +563,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="55"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>替换</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="14"/>
