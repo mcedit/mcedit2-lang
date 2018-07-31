@@ -122,7 +122,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="88"/>
         <source>View Distance:</source>
-        <translation type="unfinished">能见度：</translation>
+        <translation>能见度：</translation>
     </message>
 </context>
 <context>
@@ -151,7 +151,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="159"/>
         <source>Rotate Repeats</source>
-        <translation type="unfinished">旋转重复</translation>
+        <translation>旋转重复</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
@@ -184,7 +184,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="26"/>
         <source>Track Output</source>
-        <translation type="unfinished">踪迹导出</translation>
+        <translation>踪迹导出</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="27"/>
@@ -199,12 +199,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="31"/>
         <source>Go To Target</source>
-        <translation type="unfinished">转到目标</translation>
+        <translation>转到目标</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="32"/>
         <source>Go To Indirect Target</source>
-        <translation type="unfinished">转到间接目标</translation>
+        <translation>转到间接目标</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="37"/>
