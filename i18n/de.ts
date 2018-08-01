@@ -55,7 +55,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="35"/>
         <source>No, simple!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nein, einfach!</translation>
     </message>
 </context>
 <context>
