@@ -251,7 +251,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="191"/>
         <source>MCEdit may have crashed. An undo history was found for this world. You may try to resume editing with the saved undo history, or start over with the current state of the world.</source>
-        <translation type="unfinished">MCEdit ist wahrscheinlich abgestürzt. Ein Undo-Verlauf wurde für diese Welt gefunden. Du kannst versuchen, die Welt mit dem Undo-Verlauf weiter zu bearbeiten oder mit dem aktuellen Stand zu starten.</translation>
+        <translation type="unfinished">MCEdit ist wahrscheinlich abgestürzt. Ein Wiederherstellungsverlauf wurde für diese Welt gefunden. Du kannst versuchen, die Welt mit dem Wiederherstellungsverlauf weiter zu bearbeiten oder mit dem aktuellen Stand zu starten.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="217"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="325"/>
         <source>Find/Replace Command Text</source>
-        <translation type="unfinished">Befehle finden/ersetzen</translation>
+        <translation type="unfinished">Befehlstext finden/ersetzen</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="331"/>
@@ -376,7 +376,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="376"/>
         <source>Show Exports Library</source>
-        <translation type="unfinished">Exportierbibliothek anzeigen</translation>
+        <translation>Exportierbibliothek anzeigen</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="386"/>
@@ -396,7 +396,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="391"/>
         <source>Mark Chunks For Repopulation</source>
-        <translation type="unfinished">Chunks für Neuerstellung markieren</translation>
+        <translation>Chunks für Neuerstellung markieren</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="393"/>
