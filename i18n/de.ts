@@ -156,7 +156,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
         <source>Rotate Offset</source>
-        <translation type="unfinished">Rotierungsversetzung</translation>
+        <translation>Rotierungsversetzung</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="170"/>
@@ -194,22 +194,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="30"/>
         <source>Go To Command</source>
-        <translation type="unfinished">Gehe zum Befehl</translation>
+        <translation>Gehe zum Befehl</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="31"/>
         <source>Go To Target</source>
-        <translation type="unfinished">Gehe zum Ziel</translation>
+        <translation>Gehe zum Ziel</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="32"/>
         <source>Go To Indirect Target</source>
-        <translation type="unfinished">Gehe zum indirekten Ziel</translation>
+        <translation>Gehe zum indirekten Ziel</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="37"/>
         <source>Command Text:</source>
-        <translation type="unfinished">Befehlstext:</translation>
+        <translation>Befehlstext:</translation>
     </message>
 </context>
 <context>
