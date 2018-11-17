@@ -102,7 +102,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="48"/>
         <source>Sticky Mouselook</source>
-        <translation type="unfinished"></translation>
+        <translation>Vision à pointeur ancrée</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="66"/>
@@ -1979,7 +1979,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="121"/>
         <source>List</source>
-        <translation>List</translation>
+        <translation>Liste</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="126"/>
@@ -2064,22 +2064,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="311"/>
         <source>Search Items</source>
-        <translation>Rechercher Objets</translation>
+        <translation>Rechercher des objets</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="321"/>
         <source>Item IDs, separated by ';'</source>
-        <translation type="unfinished">ID des Objets, séparé par ";"</translation>
+        <translation>ID des objets, séparé par ";"</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="335"/>
         <source>Search Players</source>
-        <translation type="unfinished">Rechercher Joueurs</translation>
+        <translation>Rechercher des joueurs</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="345"/>
         <source>Search Chunks</source>
-        <translation type="unfinished">Rechercher Chunks</translation>
+        <translation>Rechercher des chunks</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="355"/>
@@ -2099,7 +2099,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="14"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished">Rechercher/Remplacer NBT Data</translation>
+        <translation>Rechercher/Remplacer des données NBT</translation>
     </message>
 </context>
 <context>
@@ -2112,17 +2112,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="24"/>
         <source>Find Blocks</source>
-        <translation type="unfinished">Rechercher Blocs</translation>
+        <translation>Rechercher des blocs</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="29"/>
         <source>Replace Blocks</source>
-        <translation type="unfinished">Remplacer Blocs</translation>
+        <translation>Remplacer des blocs</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="34"/>
         <source>Find/Replace Items</source>
-        <translation type="unfinished">Rechercher/Remplacer Objet</translation>
+        <translation>Rechercher/Remplacer des objets</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="39"/>
@@ -2132,7 +2132,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="44"/>
         <source>Find/Replace NBT Data</source>
-        <translation>Rechercher/Remplacer Données NBT</translation>
+        <translation>Rechercher/Remplacer des données NBT</translation>
     </message>
 </context>
 <context>
@@ -2140,7 +2140,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="14"/>
         <source>Import Image as Map</source>
-        <translation type="unfinished">Importer Image en tant que Carte</translation>
+        <translation>Importer une image en tant que Carte</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="45"/>
