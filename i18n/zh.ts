@@ -6,7 +6,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="961"/>
         <source>OK</source>
-        <translation>正常</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -217,7 +217,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="201"/>
         <source>Cylinder</source>
-        <translation type="unfinished">圆筒</translation>
+        <translation>圆柱形</translation>
     </message>
 </context>
 <context>
@@ -241,7 +241,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="186"/>
         <source>MCEdit %(version)s</source>
-        <translation type="unfinished">MCEdit %(版本号)s</translation>
+        <translation>MCEdit %(version)s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="187"/>
@@ -461,12 +461,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="917"/>
         <source>Mark Chunks For Repop</source>
-        <translation type="unfinished">标记方块为Repop</translation>
+        <translation>标记方块为重新再生</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="929"/>
         <source>Unmark Chunks For Repop</source>
-        <translation type="unfinished">撤销标记方块为Repop</translation>
+        <translation>撤销标记方块为重新再生</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="950"/>
@@ -640,7 +640,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/__init__.py" line="324"/>
         <source>Change chunk (%s, %s) property TerrainPopulated</source>
-        <translation type="unfinished"></translation>
+        <translation>修改区块 (%s, %s) 的属性TerrainPopulated</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/__init__.py" line="335"/>
