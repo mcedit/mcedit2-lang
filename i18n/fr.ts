@@ -711,7 +711,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="454"/>
         <source>Heap Trace (slow)</source>
-        <translation type="unfinished">Heap Trace (lent)</translation>
+        <translation type="unfinished">Trace de tas (lent)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="456"/>
@@ -721,7 +721,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="764"/>
         <source>Loading world...</source>
-        <translation>Charge le monde...</translation>
+        <translation>Chargement du monde...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="845"/>
@@ -757,36 +757,36 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="229"/>
         <source>Exit MCEdit</source>
-        <translation>Sortir MCEdit</translation>
+        <translation>Quitter MCEdit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="289"/>
         <source>Downloading Minecraft %s</source>
-        <translation>Télécharge Minecraft %s</translation>
+        <translation>Téléchargement de Minecraft %s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="303"/>
         <source>Failed to download the required Minecraft version.</source>
-        <translation>Il n'a pas réussi à télécharger la version nécessaire de Minecraft.</translation>
+        <translation>Erreur de téléchargement de la version requise de Minecraft.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="305"/>
         <source>An error occured while downloading Minecraft from the official servers.
 
 </source>
-        <translation>Une erreur s'a produit en téléchargement de Minecraft des serveurs officiels.
+        <translation>Une erreur s'est produite pendant le téléchargement de Minecraft depuis les serveurs officiels.
 
 </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="321"/>
         <source>Downloading version manifest</source>
-        <translation>Télécharge le manifeste de la version</translation>
+        <translation>Téléchargement de la version</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="333"/>
         <source>Failed to download version manifest. (Error code: %s)</source>
-        <translation>Il n'a pas réussi à télécharger le manifeste de la version. (Code d'erreur: %s)</translation>
+        <translation>Une erreur c'est produite lors du téléchargement de la version. (Code d'erreur: %s)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="339"/>
