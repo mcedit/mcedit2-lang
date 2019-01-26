@@ -476,7 +476,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1003"/>
         <source>Structure Block Options</source>
-        <translation type="unfinished">Opções de Estrutura de Blocos</translation>
+        <translation>Opções de Blocos de Estrutura</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1010"/>
@@ -550,7 +550,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="99"/>
         <source>Fill Block:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloco para preencher:</translation>
     </message>
 </context>
 <context>
@@ -576,32 +576,32 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="51"/>
         <source>X+</source>
-        <translation type="unfinished"></translation>
+        <translation>X+</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="52"/>
         <source>X-</source>
-        <translation type="unfinished"></translation>
+        <translation>X-</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="53"/>
         <source>Y+</source>
-        <translation type="unfinished"></translation>
+        <translation>Y+</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="54"/>
         <source>Y-</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="55"/>
         <source>Z+</source>
-        <translation type="unfinished"></translation>
+        <translation>Z+</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="56"/>
         <source>Z-</source>
-        <translation type="unfinished"></translation>
+        <translation>Z-</translation>
     </message>
 </context>
 <context>
@@ -609,17 +609,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/generate.py" line="188"/>
         <source>Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/generate.py" line="439"/>
         <source>Importing generated object...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando o objeto gerado...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/generate.py" line="442"/>
         <source>Generating object in world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerando o objeto no mundo...</translation>
     </message>
 </context>
 <context>
@@ -627,7 +627,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/chest.py" line="55"/>
         <source>Hopper</source>
-        <translation type="unfinished"></translation>
+        <translation>Funil</translation>
     </message>
 </context>
 <context>
@@ -663,17 +663,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inventory.py" line="455"/>
         <source>Change item type</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar o tipo de item</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inventory.py" line="466"/>
         <source>Change item's raw ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar o ID do item</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inventory.py" line="477"/>
         <source>Change item damage</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar o dano por golpe do item</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inventory.py" line="488"/>
@@ -701,7 +701,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="440"/>
         <source>IPython Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Console IPython</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="447"/>
@@ -721,7 +721,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="764"/>
         <source>Loading world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregando o mundo...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="845"/>
@@ -731,7 +731,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="120"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
 </context>
 <context>
@@ -747,22 +747,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="227"/>
         <source>Download Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar Minecraft</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="228"/>
         <source>Configure Installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Instalações</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="229"/>
         <source>Exit MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sair do MCEdit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="289"/>
         <source>Downloading Minecraft %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixando Minecraft %s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="303"/>
@@ -774,7 +774,9 @@
         <source>An error occured while downloading Minecraft from the official servers.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Um erro ocorreu ao baixar Minecraft dos servidores oficiais.
+
+</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="321"/>
