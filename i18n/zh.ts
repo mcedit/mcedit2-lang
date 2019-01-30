@@ -217,7 +217,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="201"/>
         <source>Cylinder</source>
-        <translation>圆柱形</translation>
+        <translation>圆柱体</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="171"/>
         <source>Diamond</source>
-        <translation type="unfinished">钻石</translation>
+        <translation>钻石</translation>
     </message>
 </context>
 <context>
@@ -261,32 +261,32 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="232"/>
         <source>Cut</source>
-        <translation type="unfinished">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="239"/>
         <source>Copy</source>
-        <translation type="unfinished">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="246"/>
         <source>Paste</source>
-        <translation type="unfinished">粘贴</translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="253"/>
         <source>Paste Blocks</source>
-        <translation type="unfinished">粘贴方块</translation>
+        <translation>粘贴方块</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="260"/>
         <source>Paste Entities</source>
-        <translation type="unfinished">粘贴实体</translation>
+        <translation>粘贴实体</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="270"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="276"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="283"/>
         <source>Delete Entities</source>
-        <translation type="unfinished">删除实体</translation>
+        <translation>删除实体</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="286"/>
@@ -396,12 +396,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="391"/>
         <source>Mark Chunks For Repopulation</source>
-        <translation type="unfinished">标记区块再生</translation>
+        <translation>标记区块实体再生</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="393"/>
         <source>Unmark Chunks For Repopulation</source>
-        <translation type="unfinished">取消标记区块再生</translation>
+        <translation>取消标记区块实体再生</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="437"/>
@@ -3159,7 +3159,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
         <source>Show world list</source>
-        <translation type="unfinished"></translation>
+        <translation>显示世界列表</translation>
     </message>
 </context>
 </TS>
