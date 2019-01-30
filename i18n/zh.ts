@@ -6,7 +6,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="961"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="171"/>
         <source>Diamond</source>
-        <translation>钻石</translation>
+        <translation type="unfinished">钻石</translation>
     </message>
 </context>
 <context>
@@ -376,7 +376,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="376"/>
         <source>Show Exports Library</source>
-        <translation type="unfinished">显示导出库</translation>
+        <translation>显示导出库</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="386"/>
@@ -673,7 +673,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inventory.py" line="477"/>
         <source>Change item damage</source>
-        <translation type="unfinished">更改道具耐久度</translation>
+        <translation>更改道具耐久度</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inventory.py" line="488"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="423"/>
         <source>&amp;Debug</source>
-        <translation type="unfinished">&amp;Debug</translation>
+        <translation>&amp;调试</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="433"/>
