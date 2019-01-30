@@ -217,7 +217,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="201"/>
         <source>Cylinder</source>
-        <translation>圆柱体</translation>
+        <translation>圆筒</translation>
     </message>
 </context>
 <context>
