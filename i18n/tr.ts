@@ -6,7 +6,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="961"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>TAMAM</translation>
     </message>
 </context>
 <context>
@@ -14,12 +14,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorcommands/analyze.py" line="64"/>
         <source>Export as .csv</source>
-        <translation type="unfinished"></translation>
+        <translation>.Csv olarak dışa aktar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorcommands/analyze.py" line="80"/>
         <source>Export as .txt</source>
-        <translation type="unfinished"></translation>
+        <translation>.Txt olarak dışa aktar</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="172"/>
         <source>Biome</source>
-        <translation type="unfinished"></translation>
+        <translation>Biyom</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="173"/>
@@ -40,22 +40,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="24"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>TAMAM</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="27"/>
         <source>Choose blocks to replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Değiştirilecek blokları seçin</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="33"/>
         <source>Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelişmiş...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="35"/>
         <source>No, simple!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, basit!</translation>
     </message>
 </context>
 <context>
@@ -63,17 +63,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="33"/>
         <source>Old Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski Bloklar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="38"/>
         <source>New Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Bloklar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/block_replacements.ui" line="14"/>
         <source>Replace Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Değiştir</translation>
     </message>
 </context>
 <context>
@@ -81,7 +81,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/blockpicker_util.py" line="55"/>
         <source>No blocks selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçili blok yok</translation>
     </message>
 </context>
 <context>
@@ -89,12 +89,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/prefsdialog/camera.py" line="18"/>
         <source>Camera View</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamera Açısı</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/prefsdialog/camera.py" line="25"/>
         <source>Max View Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum görüş mesafesi</translation>
     </message>
 </context>
 <context>
@@ -107,12 +107,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="66"/>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspektif</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="70"/>
         <source>Show...</source>
-        <translation type="unfinished"></translation>
+        <translation>Göster...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="73"/>
@@ -122,7 +122,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="88"/>
         <source>View Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüş Mesafesi:</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/chest.py" line="39"/>
         <source>Chest</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandık</translation>
     </message>
 </context>
 <context>
@@ -146,7 +146,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="152"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Onayla</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="159"/>
@@ -171,7 +171,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="355"/>
         <source>Pasting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapıştırılıyor...</translation>
     </message>
 </context>
 <context>
@@ -179,7 +179,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="23"/>
         <source>Custom Name: </source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Ad: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="26"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="31"/>
         <source>Go To Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Hedefe Git</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="32"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="201"/>
         <source>Cylinder</source>
-        <translation type="unfinished"></translation>
+        <translation>Silindir</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="171"/>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Elmas</translation>
     </message>
 </context>
 <context>
@@ -241,67 +241,67 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="186"/>
         <source>MCEdit %(version)s</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit %(version)s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="187"/>
         <source>This world was not properly closed by MCEdit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu dünya MCEdit tarafından düzgün bir şekilde kapatılmadı.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="191"/>
         <source>MCEdit may have crashed. An undo history was found for this world. You may try to resume editing with the saved undo history, or start over with the current state of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit çökmüş olabilir. Bu dünya için geri alma tarihi bulundu. Kaydedilmiş geri alma geçmişiyle düzenlemeye devam etmeye çalışabilir veya dünyanın şu anki durumuyla baştan başlayabilirsiniz.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="217"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="232"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kes</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="239"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="246"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="253"/>
         <source>Paste Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Yapıştır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="260"/>
         <source>Paste Entities</source>
-        <translation type="unfinished"></translation>
+        <translation>Varlıkları Yapıştır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="270"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="276"/>
         <source>Delete Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Sil</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="283"/>
         <source>Delete Entities</source>
-        <translation type="unfinished"></translation>
+        <translation>Varlıkları Sil</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="286"/>
         <source>Delete Entities And Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Varlıkları ve Öğeleri Sil</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="296"/>
@@ -311,17 +311,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="306"/>
         <source>Find Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Bul</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="312"/>
         <source>Find/Replace Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Bul/Değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="319"/>
         <source>Find/Replace Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğeleri Bul/Değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="325"/>
@@ -341,12 +341,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="349"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seç</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="882"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hepsini Seç</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="887"/>
@@ -356,7 +356,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="363"/>
         <source>Import/Export</source>
-        <translation type="unfinished"></translation>
+        <translation>İçe Aktar/Dışa Aktar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1050"/>
@@ -371,7 +371,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="972"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>İçe Aktar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="376"/>
@@ -406,7 +406,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="437"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="528"/>
@@ -416,12 +416,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="647"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Varsayılan)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="611"/>
         <source>Changing resource pack...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak paketi değiştiriliyor...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="612"/>
@@ -431,7 +431,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="628"/>
         <source>Changing Minecraft version...</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft versiyonu değiştiriliyor...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="629"/>
@@ -441,17 +441,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
         <source>(Not set)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ayarlanmadı)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
         <source>Minecraft Version: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Versiyon:%s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="647"/>
         <source>Resource Pack: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak Paketi: %s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="810"/>
@@ -481,7 +481,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1010"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1015"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1549"/>
         <source> Tool Options</source>
-        <translation type="unfinished"></translation>
+        <translation> Araç Seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -527,17 +527,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="106"/>
         <source>Uploading to pastebin...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin'e yükleniyor...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="119"/>
         <source>Failed to upload to pastebin: </source>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin'e yüklenemedi: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/dialogs/error_dialog.py" line="127"/>
         <source>Pastebin URL copied to clipboard!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin URL panoya kopyalandı!</translation>
     </message>
 </context>
 <context>
@@ -558,12 +558,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="45"/>
         <source>In Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimde</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="55"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_blocks.ui" line="14"/>
@@ -576,32 +576,32 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="51"/>
         <source>X+</source>
-        <translation type="unfinished"></translation>
+        <translation>X+</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="52"/>
         <source>X-</source>
-        <translation type="unfinished"></translation>
+        <translation>X-</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="53"/>
         <source>Y+</source>
-        <translation type="unfinished"></translation>
+        <translation>Y+</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="54"/>
         <source>Y-</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="55"/>
         <source>Z+</source>
-        <translation type="unfinished"></translation>
+        <translation>Z+</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/flood_fill.py" line="56"/>
         <source>Z-</source>
-        <translation type="unfinished"></translation>
+        <translation>Z-</translation>
     </message>
 </context>
 <context>
@@ -627,7 +627,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/chest.py" line="55"/>
         <source>Hopper</source>
-        <translation type="unfinished"></translation>
+        <translation>Huni</translation>
     </message>
 </context>
 <context>
@@ -635,7 +635,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/__init__.py" line="246"/>
         <source>(Not set)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ayarlanmadı)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/__init__.py" line="324"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="423"/>
         <source>&amp;Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hata ayıklama</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="433"/>
@@ -706,7 +706,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="447"/>
         <source>ObjGraph</source>
-        <translation type="unfinished"></translation>
+        <translation>ObjGraph</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="454"/>
@@ -721,7 +721,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="764"/>
         <source>Loading world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya yükleniyor...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="845"/>
@@ -731,7 +731,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="120"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Dil</translation>
     </message>
 </context>
 <context>
@@ -739,7 +739,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorapp.py" line="53"/>
         <source>MCEdit %(version)s</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit %(version)s</translation>
     </message>
 </context>
 <context>
@@ -747,17 +747,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="227"/>
         <source>Download Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft'ı indir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="228"/>
         <source>Configure Installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklemeleri Yapılandır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="229"/>
         <source>Exit MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit'ten çık</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="289"/>
@@ -767,7 +767,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="303"/>
         <source>Failed to download the required Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerekli Minecraft sürümü indirilemedi.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="305"/>
@@ -799,7 +799,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="358"/>
         <source>Downloading version info</source>
-        <translation type="unfinished"></translation>
+        <translation>Sürüm bilgisi indiriliyor</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/minecraftinstall.py" line="366"/>
@@ -832,17 +832,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/map.py" line="80"/>
         <source>Edit Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Haritaları Düzenle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/map.py" line="165"/>
         <source>Choose an image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir resim dosyası seçin</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/map.py" line="177"/>
         <source>Import Image as Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Resmi Harita Olarak İçe Aktar</translation>
     </message>
 </context>
 <context>
@@ -850,27 +850,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="136"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="138"/>
         <source>Copy Air</source>
-        <translation type="unfinished"></translation>
+        <translation>Hava kopyala</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="262"/>
         <source>&lt;Moved Object&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Taşınan Nesne&gt;</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="290"/>
         <source>Pasting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapıştırılıyor...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="297"/>
         <source>Clearing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Temizleniyor...</translation>
     </message>
 </context>
 <context>
@@ -878,42 +878,42 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="101"/>
         <source>Byte</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="102"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Short</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="103"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="104"/>
         <source>Long</source>
-        <translation type="unfinished"></translation>
+        <translation>Long</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="105"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Float</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="106"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Double</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="107"/>
         <source>String</source>
-        <translation type="unfinished"></translation>
+        <translation>String</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="108"/>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="109"/>
@@ -923,12 +923,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="111"/>
         <source>Byte Array</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte Array</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/nbttree/nbteditor.py" line="112"/>
         <source>Int Array</source>
-        <translation type="unfinished"></translation>
+        <translation>Int Array</translation>
     </message>
 </context>
 <context>
@@ -944,7 +944,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/imports.py" line="455"/>
         <source>Copying...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyalanıyor...</translation>
     </message>
 </context>
 <context>
@@ -960,7 +960,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/plugins/command.py" line="409"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Eklentiler</translation>
     </message>
 </context>
 <context>
@@ -978,37 +978,37 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="50"/>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesneyi Taşı</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="65"/>
         <source>Rotate Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesneyi Döndür</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/select.py" line="160"/>
         <source>Box Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kutu Seçimi</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/qglcontext.py" line="62"/>
         <source>OpenGL Error</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenGL Hatası</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/qglcontext.py" line="64"/>
         <source>OpenGL 1.3 or greater is required. MCEdit was unable to start up OpenGL.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenGL 1.3 veya daha üstü gereklidir. MCEdit OpenGL'i başlatamadı.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/util/qglcontext.py" line="68"/>
         <source>Could not create a usable OpenGL context. Verify that your graphics drivers are installed correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanılabilir bir OpenGL bağlamı oluşturulamadı. Grafik sürücülerinizin doğru yüklendiğinden emin olun.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="77"/>
         <source>Scale Cloned Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonlanmış Nesneleri Ölçeklendir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="80"/>
@@ -1021,7 +1021,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/modes.py" line="133"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Değiştir</translation>
     </message>
 </context>
 <context>
@@ -1029,7 +1029,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="121"/>
         <source>Round</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuvarlak</translation>
     </message>
 </context>
 <context>
@@ -1037,12 +1037,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/select.py" line="188"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/select.py" line="193"/>
         <source>Classic Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasik Seçim</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/select.py" line="194"/>
@@ -1052,7 +1052,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/select.py" line="304"/>
         <source>Resize Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimi Yeniden Boyutlandır</translation>
     </message>
 </context>
 <context>
@@ -1060,7 +1060,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/shapewidget.py" line="88"/>
         <source>Shape: </source>
-        <translation type="unfinished"></translation>
+        <translation>Şekil: </translation>
     </message>
 </context>
 <context>
@@ -1081,7 +1081,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="159"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Kare</translation>
     </message>
 </context>
 <context>
@@ -1114,17 +1114,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="158"/>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="159"/>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrol</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="160"/>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="161"/>
@@ -1137,7 +1137,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewcontrols.py" line="174"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroller</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewcontrols.py" line="195"/>
@@ -1155,62 +1155,62 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="31"/>
         <source>World Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya Bilgisi</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="39"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayatta Kalma</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="39"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaratıcı</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="39"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>Macera</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>Seyirci</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Peaceful</source>
-        <translation type="unfinished"></translation>
+        <translation>Huzurlu</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolay</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="41"/>
         <source>Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>Zor</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="42"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="43"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Düz</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="44"/>
         <source>Large Biomes</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyük Biyomlar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="45"/>
@@ -1220,12 +1220,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="46"/>
         <source>Customized</source>
-        <translation type="unfinished"></translation>
+        <translation>Özelleştirilmiş</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="47"/>
         <source>Debug All Block States</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Blok Durumlarında Hata Ayıkla</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="143"/>
@@ -1293,12 +1293,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldlist.py" line="270"/>
         <source>(No resource pack)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Kaynak paketi yok)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldlist.py" line="288"/>
         <source>Choose Saves Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydetme Klasörünü Seçin</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1311,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="20"/>
         <source>Blocks Found:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulunan Bloklar:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="30"/>
@@ -1321,17 +1321,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="42"/>
         <source>Export txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Txt'yi dışa aktar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="49"/>
         <source>Export csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Csv'yi dışa aktar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="69"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -1339,22 +1339,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="20"/>
         <source>Choose Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Seç</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="28"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arama:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="145"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazgeç</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="152"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>TAMAM</translation>
     </message>
 </context>
 <context>
@@ -1367,7 +1367,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/blocktype_list.ui" line="20"/>
         <source>Known Blocks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinen Bloklar:</translation>
     </message>
 </context>
 <context>
@@ -1380,17 +1380,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="38"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Genişlik:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="55"/>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükseklik:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="72"/>
         <source>Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzunluk:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="89"/>
@@ -1436,22 +1436,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="27"/>
         <source>Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="45"/>
         <source>Unknown blocks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinmeyen bloklar:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="65"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="72"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="97"/>
@@ -1521,27 +1521,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="284"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arama:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="358"/>
         <source>Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğeler</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="366"/>
         <source>Note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Not:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="372"/>
         <source>Use this window to tell MCEdit about blocks and items added to Minecraft by any mods you are using. You cannot use this to create new blocks or add new blocks to Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit'e kullandığınız modlar tarafından Minecraft'a eklenen bloklar ve nesneler hakkında bilgi vermek için bu pencereyi kullanın. Bunu Minecraft'a yeni bloklar oluşturmak veya yeni bloklar eklemek için kullanamazsınız.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="397"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>TAMAM</translation>
     </message>
 </context>
 <context>
@@ -1559,17 +1559,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/coord_widget.ui" line="35"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/coord_widget.ui" line="52"/>
         <source>Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/coord_widget.ui" line="69"/>
         <source>Z:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z:</translation>
     </message>
 </context>
 <context>
@@ -1577,62 +1577,62 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="14"/>
         <source>MCEdit Error</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Hatası</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="22"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-size:12pt;"&gt;An Error Has Occurred:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; 1&lt;head/&gt; 2&lt;body&gt; 3&lt;p&gt; 4&lt;span style=" font-size:12pt;"&gt; 5Bir hata oluştu:&lt;/span&gt; 6&lt;/p&gt; 7&lt;/body&gt; 8&lt;/html&gt; 9</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="41"/>
         <source>(no error yet!)</source>
-        <translation type="unfinished"></translation>
+        <translation>(henüz hata yok!)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="53"/>
         <source>It is recommended to undo the last command, save your work, and restart MCEdit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Son komutu geri almanız, çalışmanızı kaydetmeniz ve MCEdit'i yeniden başlatmanız önerilir.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="60"/>
         <source>Error Details:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata Detayları:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="70"/>
         <source>Send this error report to the plugin or application developer to help get it fixed. </source>
-        <translation type="unfinished"></translation>
+        <translation>Düzeltilmesi için bu hata raporunu eklentiye veya uygulama geliştiricisine gönderin. </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="77"/>
         <source>Clicking "Copy to PasteBin" will copy a Pastebin URL to your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>"PasteBin'e Kopyala" üzerine tıkladığınızda bir Pastebin URL’si panoya kopyalanır.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="106"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata ayıklama</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="113"/>
         <source>Copy to PasteBin</source>
-        <translation type="unfinished"></translation>
+        <translation>PasteBin'e Kopyala</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="120"/>
         <source>Restart MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit’i yeniden başlat</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="127"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="134"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Devam et</translation>
     </message>
 </context>
 <context>
@@ -1650,7 +1650,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/fill.ui" line="56"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazgeç</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/fill.ui" line="63"/>
@@ -1663,7 +1663,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="35"/>
         <source>Find:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bul:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="45"/>
@@ -1678,27 +1678,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="66"/>
         <source>Progress:</source>
-        <translation type="unfinished"></translation>
+        <translation>İlerleme:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="80"/>
         <source>Replace All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hepsini değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="87"/>
         <source>Replace Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçileni Değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="94"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Durdur</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="101"/>
         <source>Find Again...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekrar Bul...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_command_results.ui" line="14"/>
@@ -1726,7 +1726,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="46"/>
         <source>Target Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Hedef Seçici</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="53"/>
@@ -1751,7 +1751,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="88"/>
         <source>Search the full command for this text</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu metin için tam komutu ara</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="95"/>
@@ -1761,7 +1761,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="102"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation>?</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="114"/>
@@ -1771,22 +1771,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="122"/>
         <source>Replace Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metni Değiştir:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="129"/>
         <source>Replace the matching command text with this</source>
-        <translation type="unfinished"></translation>
+        <translation>Eşleşen komut metnini bununla değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="169"/>
         <source>In Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimde</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="182"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Bul</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_commands.ui" line="14"/>
@@ -1854,37 +1854,37 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="110"/>
         <source>Progress:</source>
-        <translation type="unfinished"></translation>
+        <translation>İlerleme:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="124"/>
         <source>Replace All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hepsini değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="131"/>
         <source>Replace Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçileni Değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="138"/>
         <source>Remove Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiketleri Kaldır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="145"/>
         <source>Remove Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçileni Kaldır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="152"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Durdur</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="159"/>
         <source>Find Again...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekrar Bul...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt_results.ui" line="14"/>
@@ -2012,7 +2012,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="167"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation>?</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="181"/>
@@ -2037,7 +2037,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="272"/>
         <source>Search in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Araştır...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="280"/>
@@ -2087,12 +2087,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="395"/>
         <source>In Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimde</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="408"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Bul</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="14"/>
@@ -2110,12 +2110,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="24"/>
         <source>Find Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Bul</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="29"/>
         <source>Replace Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokları Değiştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="34"/>
@@ -2138,7 +2138,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="14"/>
         <source>Import Image as Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Resmi Harita Olarak İçe Aktar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="45"/>
@@ -2163,12 +2163,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="119"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazgeç</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="126"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>İçe Aktar</translation>
     </message>
 </context>
 <context>
@@ -2181,27 +2181,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="39"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="56"/>
         <source>Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="73"/>
         <source>Z:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="107"/>
         <source>Block Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Blok Adı:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="114"/>
         <source>(name)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ad)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="121"/>
@@ -2341,7 +2341,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="396"/>
         <source>Remove Entity</source>
-        <translation type="unfinished"></translation>
+        <translation>Varlığı Kaldır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="407"/>
@@ -2396,22 +2396,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="515"/>
         <source>Marks this chunk to have trees, lakes, ores, and other terrain features regenerated in Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu yığına, Minecraft'ta yenilenen ağaçlar, göller, cevherler ve diğer arazi özelliklerine sahip olduğunu işaretler.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="521"/>
         <source>Terrain Populated</source>
-        <translation type="unfinished"></translation>
+        <translation>Arazi Nüfusu</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="528"/>
         <source>Currently does nothing. Minecraft sets it after generating a chunk but never reads it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Şu anda hiçbir şey yapmıyor. Minecraft, bir yığın oluşturduktan sonra ayarlar, ancak bir daha asla okumaz.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="534"/>
         <source>Light Populated</source>
-        <translation type="unfinished"></translation>
+        <translation>Işık nüfuslu</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="565"/>
@@ -2421,12 +2421,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="552"/>
         <source>Update Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme Zamanı</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="604"/>
         <source>Number of ticks the player has spent in this chunk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyuncunun bu parçada harcadığı tik sayısı.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="591"/>
@@ -2449,12 +2449,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="14"/>
         <source>MCEdit - Minecraft Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit - Minecraft Kurulumları</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="22"/>
         <source>Minecraft Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Kurulumları</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="186"/>
@@ -2464,7 +2464,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="61"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyon</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="196"/>
@@ -2474,22 +2474,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="79"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>TAMAM</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="216"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="223"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="119"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seç</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="126"/>
@@ -2499,7 +2499,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="152"/>
         <source>MultiMC Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC Kurulumları</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="191"/>
@@ -2509,7 +2509,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="204"/>
         <source>MultiMC instances are automatically selected when a world from that instance is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC örnekleri, bu örnekten bir dünya yüklendiğinde otomatik olarak seçilir.</translation>
     </message>
 </context>
 <context>
@@ -2532,12 +2532,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/library.ui" line="65"/>
         <source>Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Haritalar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/library.ui" line="91"/>
         <source>Custom Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Bloklar</translation>
     </message>
 </context>
 <context>
@@ -2545,22 +2545,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="52"/>
         <source>Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatalar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="81"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyarılar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="110"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilgi</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="139"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata ayıklama</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="173"/>
@@ -2575,7 +2575,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/log_view.ui" line="14"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kayıtlar</translation>
     </message>
 </context>
 <context>
@@ -2588,92 +2588,92 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="44"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="48"/>
         <source>Recent Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Dünyalar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="66"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Yardım</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="72"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencere</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="77"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="95"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Araçlar</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="109"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç Çubuğu</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="123"/>
         <source>New World...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Dünya...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="128"/>
         <source>Open World...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünyayı Aç...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="133"/>
         <source>Show World List</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya Listesini Göster</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="138"/>
         <source>Close World</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünyayı Kapat</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="143"/>
         <source>Save World</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünyayı Kaydet</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="148"/>
         <source>Save World As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünyayı Farklı Kaydet...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="153"/>
         <source>Exit MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit'ten çık</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="158"/>
         <source>About MCEdit 2...</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit 2 hakkında...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="163"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Temizle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="174"/>
         <source>Enable Lighting Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Aydınlatma Güncellemelerini Etkinleştir</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="179"/>
         <source>Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tercihler...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="187"/>
@@ -2683,12 +2683,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="192"/>
         <source>Plugins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eklentiler...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/main_window.ui" line="200"/>
         <source>Enable Developer Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Geliştirici Modunu Etkinleştir</translation>
     </message>
 </context>
 <context>
@@ -2696,52 +2696,52 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="14"/>
         <source>Edit Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Haritaları Düzenle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="40"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Genişlik:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="116"/>
         <source>xx</source>
-        <translation type="unfinished"></translation>
+        <translation>xx</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="54"/>
         <source>Height: </source>
-        <translation type="unfinished"></translation>
+        <translation>Yükseklik: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="84"/>
         <source>Currently editing in external editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Şu anda harici editörde düzenleme yapıyor.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="95"/>
         <source>Dimension: </source>
-        <translation type="unfinished"></translation>
+        <translation>Boyut: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="109"/>
         <source>Scale: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçek: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="136"/>
         <source>Edit in External Editor...</source>
-        <translation type="unfinished"></translation>
+        <translation>Harici Editör'de Düzenle...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="192"/>
         <source>Delete Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Haritayı Sil</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="199"/>
         <source>Import Image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Resim İçe Aktar ...</translation>
     </message>
 </context>
 <context>
@@ -2749,12 +2749,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="29"/>
         <source>Move Selected Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçili Nesneyi Taşı</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="93"/>
         <source>Finish Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Sona Taşı</translation>
     </message>
 </context>
 <context>
@@ -2767,7 +2767,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="22"/>
         <source>Player:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyuncu:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="36"/>
@@ -2782,12 +2782,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="56"/>
         <source>Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyuncu</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="62"/>
         <source>Inventory</source>
-        <translation type="unfinished"></translation>
+        <translation>Envanter</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="70"/>
@@ -2797,7 +2797,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="87"/>
         <source>NBT Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>NBT Ağacı</translation>
     </message>
 </context>
 <context>
@@ -2805,12 +2805,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/plugins.ui" line="14"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Eklentiler</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/plugins.ui" line="66"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>TAMAM</translation>
     </message>
 </context>
 <context>
@@ -2818,12 +2818,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/preferences.ui" line="14"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Tercihler</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/preferences.ui" line="70"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -2908,7 +2908,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/select_entity.ui" line="20"/>
         <source>Entities found:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulunan varlıklar:</translation>
     </message>
 </context>
 <context>
@@ -2916,12 +2916,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="29"/>
         <source>Edit Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Boyutu Düzenle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="38"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="123"/>
@@ -2931,12 +2931,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="72"/>
         <source>Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="106"/>
         <source>Z:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/selection_coord_widget.ui" line="20"/>
@@ -2949,17 +2949,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="14"/>
         <source>Edit World Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya Bilgilerini Düzenle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="27"/>
         <source>World Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya Bilgisi</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="33"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Genel</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="39"/>
@@ -2974,17 +2974,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="62"/>
         <source>Game Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun Ayarları</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="70"/>
         <source>Difficulty:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zorluk:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="80"/>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilitli</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="87"/>
@@ -3009,7 +3009,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="161"/>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="176"/>
@@ -3019,37 +3019,37 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="187"/>
         <source>Day: </source>
-        <translation type="unfinished"></translation>
+        <translation>Gün: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="204"/>
         <source>Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaman:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="211"/>
         <source>11:15</source>
-        <translation type="unfinished"></translation>
+        <translation>11:15</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="228"/>
         <source>Midnight</source>
-        <translation type="unfinished"></translation>
+        <translation>Gece yarısı</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="257"/>
         <source>Dawn</source>
-        <translation type="unfinished"></translation>
+        <translation>Şafak</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="295"/>
         <source>Noon</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğle vakti</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="324"/>
         <source>Evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Akşam</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="372"/>
@@ -3059,27 +3059,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="380"/>
         <source>Default Game Mode (Multiplayer):</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan Oyun Modu (Çok Oyunculu):</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="407"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="417"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="427"/>
         <source>Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="469"/>
         <source>NBT Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>NBT Ağacı</translation>
     </message>
 </context>
 <context>
@@ -3087,22 +3087,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="14"/>
         <source>MCEdit - World List</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit - Dünya Listesi</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="38"/>
         <source>Minecraft Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Kurulumu</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="64"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyon</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="90"/>
         <source>Resource Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak Paketi</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="100"/>
@@ -3112,12 +3112,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="134"/>
         <source>Recent Worlds...</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Dünyalar...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="155"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="184"/>
@@ -3127,37 +3127,37 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="218"/>
         <source>Open another world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Başka bir dünya aç...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="261"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="284"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapat</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="291"/>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Yedek</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="298"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamir et</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="305"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
         <source>Show world list</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya listesini göster</translation>
     </message>
 </context>
 </TS>
