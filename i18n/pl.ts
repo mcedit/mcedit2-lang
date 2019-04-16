@@ -441,7 +441,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="629"/>
         <source>Changing to Minecraft version %s</source>
-        <translation>Zmiana wersji Minecrafta %s</translation>
+        <translation>Zmiana wersji Minecraft'a %s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
