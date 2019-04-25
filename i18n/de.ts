@@ -3016,42 +3016,42 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="176"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uhrzeit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="187"/>
         <source>Day: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tag: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="204"/>
         <source>Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uhrzeit:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="211"/>
         <source>11:15</source>
-        <translation type="unfinished"></translation>
+        <translation>11:15</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="228"/>
         <source>Midnight</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitternacht</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="257"/>
         <source>Dawn</source>
-        <translation type="unfinished"></translation>
+        <translation>Morgendämmerung</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="295"/>
         <source>Noon</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittag</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="324"/>
         <source>Evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Abend</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="372"/>
@@ -3061,22 +3061,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="380"/>
         <source>Default Game Mode (Multiplayer):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standart Spielmodus (Multiplayer):</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="407"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="417"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="427"/>
         <source>Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="469"/>
@@ -3089,17 +3089,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="14"/>
         <source>MCEdit - World List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MCEdit - Welten Liste</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="38"/>
         <source>Minecraft Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Installation</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="64"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="90"/>
@@ -3109,7 +3109,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="100"/>
         <source>Configure Installs...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installationen Konfigurieren...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="134"/>
@@ -3124,12 +3124,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="184"/>
         <source>Choose...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auswählen</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="218"/>
         <source>Open another world...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Andere Welt öffnen</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="261"/>
