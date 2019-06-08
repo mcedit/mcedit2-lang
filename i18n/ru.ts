@@ -50,12 +50,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="33"/>
         <source>Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительно ...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/block_replacement_list.py" line="35"/>
         <source>No, simple!</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет, просто!</translation>
     </message>
 </context>
 <context>
@@ -102,7 +102,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="48"/>
         <source>Sticky Mouselook</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Липкий взгляд мыши</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/camera.py" line="66"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/chest.py" line="39"/>
         <source>Chest</source>
-        <translation type="unfinished"></translation>
+        <translation>сундук</translation>
     </message>
 </context>
 <context>
@@ -138,7 +138,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="238"/>
         <source>Chunk</source>
-        <translation type="unfinished"></translation>
+        <translation>чанк</translation>
     </message>
 </context>
 <context>
@@ -166,7 +166,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="324"/>
         <source>&lt;Cloned Object&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Клонированный объект&gt;</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="355"/>
@@ -184,27 +184,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="26"/>
         <source>Track Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Выходной трек</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="27"/>
         <source>Success Count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Счетчик успеха: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="30"/>
         <source>Go To Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к команде</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="31"/>
         <source>Go To Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к цели</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="32"/>
         <source>Go To Indirect Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к косвенной цели</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="37"/>
@@ -225,7 +225,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="171"/>
         <source>Diamond</source>
-        <translation>Ромб</translation>
+        <translation>Алмаз</translation>
     </message>
 </context>
 <context>
@@ -233,7 +233,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/chest.py" line="48"/>
         <source>Dispenser</source>
-        <translation type="unfinished"></translation>
+        <translation>раздатчик</translation>
     </message>
 </context>
 <context>
@@ -241,7 +241,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="186"/>
         <source>MCEdit %(version)s</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit% (версия)и</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="187"/>
@@ -251,7 +251,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="191"/>
         <source>MCEdit may have crashed. An undo history was found for this world. You may try to resume editing with the saved undo history, or start over with the current state of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit, возможно, крашнулся (сломался). В истории был найден этот мир. Вы можете попытаться возобновить редактирование с сохраненной историей, или начать сначала с текущим состоянием мира.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="217"/>
@@ -361,7 +361,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="1050"/>
         <source>Export Schematic</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать Синематик</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="369"/>
@@ -376,22 +376,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="376"/>
         <source>Show Exports Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать Библиотеку Экспорта</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="386"/>
         <source>Chunk</source>
-        <translation type="unfinished"></translation>
+        <translation>чанк</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="906"/>
         <source>Delete Chunks</source>
-        <translation type="unfinished"></translation>
+        <translation>удалить чанк</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="390"/>
         <source>Create Chunks</source>
-        <translation type="unfinished"></translation>
+        <translation>создать чанк</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="391"/>
@@ -411,7 +411,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="528"/>
         <source>Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Инспектор</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="647"/>
@@ -3157,7 +3157,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
         <source>Show world list</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать список мира</translation>
     </message>
 </context>
 </TS>
