@@ -151,17 +151,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="159"/>
         <source>Rotate Repeats</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот повторителя</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="162"/>
         <source>Rotate Offset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поворот Сдвиг</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="170"/>
         <source>Repeat count: </source>
-        <translation type="unfinished"></translation>
+        <translation>Счетчик повторений: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="324"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/command.py" line="37"/>
         <source>Command Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст команды:</translation>
     </message>
 </context>
 <context>
@@ -281,7 +281,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="260"/>
         <source>Paste Entities</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить объекты</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="270"/>
@@ -296,12 +296,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="283"/>
         <source>Delete Entities</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить объекты</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="286"/>
         <source>Delete Entities And Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить объекты и элементы</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="296"/>
@@ -326,12 +326,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="325"/>
         <source>Find/Replace Command Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти / заменить текст команды</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="331"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти / заменить данные NBT</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="340"/>
@@ -2706,42 +2706,42 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="116"/>
         <source>xx</source>
-        <translation type="unfinished"></translation>
+        <translation>хх</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="54"/>
         <source>Height: </source>
-        <translation type="unfinished"></translation>
+        <translation>Высота: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="84"/>
         <source>Currently editing in external editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>В настоящее время редактирование во внешнем редакторе.</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="95"/>
         <source>Dimension: </source>
-        <translation type="unfinished"></translation>
+        <translation>Измерение: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="109"/>
         <source>Scale: </source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб: </translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="136"/>
         <source>Edit in External Editor...</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать во внешнем редакторе ...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="192"/>
         <source>Delete Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить карту</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/map.ui" line="199"/>
         <source>Import Image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать изображение ...</translation>
     </message>
 </context>
 <context>
@@ -2749,12 +2749,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="29"/>
         <source>Move Selected Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить выбранный объект</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="93"/>
         <source>Finish Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершить движение</translation>
     </message>
 </context>
 <context>
@@ -2762,22 +2762,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="14"/>
         <source>Edit Players</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать игроков</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="22"/>
         <source>Player:</source>
-        <translation type="unfinished"></translation>
+        <translation>Игрок:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="36"/>
         <source>Camera to Player's View</source>
-        <translation type="unfinished"></translation>
+        <translation>Камера на вид игрока</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="43"/>
         <source>Move Player to Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить игрока в камеру</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/player.ui" line="56"/>
@@ -3152,7 +3152,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="305"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
