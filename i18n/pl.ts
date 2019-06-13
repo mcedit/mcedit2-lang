@@ -1361,7 +1361,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="152"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="unfinished">Ok</translation>
     </message>
 </context>
 <context>
@@ -1548,7 +1548,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/configure_blocks.ui" line="397"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -2049,7 +2049,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="280"/>
         <source>Search Entities</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź Entity</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="287"/>
@@ -2064,47 +2064,47 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="301"/>
         <source>TileEntity IDs, separted by ';'</source>
-        <translation type="unfinished"></translation>
+        <translation>ID TileEntity, oddzielone przez ';'</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="311"/>
         <source>Search Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź przedmioty</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="321"/>
         <source>Item IDs, separated by ';'</source>
-        <translation type="unfinished"></translation>
+        <translation>ID przedmiotów, oddzielonych ';'</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="335"/>
         <source>Search Players</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź Graczy</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="345"/>
         <source>Search Chunks</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź Chunki</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="355"/>
         <source>Search other .dat files</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź inne pliki .dat</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="395"/>
         <source>In Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wybrane</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="408"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajdź</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="14"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajdź/Zamień NBT Data</translation>
     </message>
 </context>
 <context>
@@ -2112,7 +2112,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="14"/>
         <source>Find and Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajdź i zamień...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="24"/>
