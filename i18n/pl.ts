@@ -301,7 +301,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="283"/>
         <source>Delete Entities</source>
-        <translation>Usuń elementy</translation>
+        <translation>Usuń byty</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="286"/>
@@ -441,7 +441,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="629"/>
         <source>Changing to Minecraft version %s</source>
-        <translation>Zmiana wersji Minecraft'a %s</translation>
+        <translation>Zmiana wersji Minecraft'a na %s</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="643"/>
