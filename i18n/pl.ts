@@ -306,7 +306,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="286"/>
         <source>Delete Entities And Items</source>
-        <translation>Skasuj Byty oraz Przedmioty</translation>
+        <translation>Usun Byty oraz Przedmioty</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="296"/>
