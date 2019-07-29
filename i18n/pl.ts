@@ -306,7 +306,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="286"/>
         <source>Delete Entities And Items</source>
-        <translation>Usun Byty oraz Przedmioty</translation>
+        <translation>Usuń Byty oraz Przedmioty</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="296"/>
@@ -466,12 +466,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="917"/>
         <source>Mark Chunks For Repop</source>
-        <translation type="unfinished">Zaznacz chunki do Repop</translation>
+        <translation>Zaznacz chunki dla Repop</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="929"/>
         <source>Unmark Chunks For Repop</source>
-        <translation type="unfinished">Odznacz chunki dla Repop</translation>
+        <translation>Odznacz chunki dla Repop</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editorsession.py" line="950"/>
@@ -872,7 +872,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="290"/>
         <source>Pasting...</source>
-        <translation type="unfinished">Wklejanie...</translation>
+        <translation>Wklejanie...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/move.py" line="297"/>
@@ -1059,7 +1059,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/select.py" line="304"/>
         <source>Resize Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień rozmiar zaznaczenia</translation>
     </message>
 </context>
 <context>
@@ -1067,7 +1067,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/shapewidget.py" line="88"/>
         <source>Shape: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kształt: </translation>
     </message>
 </context>
 <context>
@@ -1075,12 +1075,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/sign.py" line="32"/>
         <source>Text %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst %d</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/widgets/inspector/tileentities/sign.py" line="39"/>
         <source>Edit sign text</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj napis na tabliczce</translation>
     </message>
 </context>
 <context>
@@ -1088,7 +1088,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/brush/shapes.py" line="159"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Kwadrat</translation>
     </message>
 </context>
 <context>
@@ -1096,42 +1096,42 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="147"/>
         <source>Left Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewy przycisk</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="148"/>
         <source>Right Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawy przycisk</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="149"/>
         <source>Middle Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Środkowy przycisk</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="150"/>
         <source>Mousewheel Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Kółko myszy (w górę)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="151"/>
         <source>Mousewheel Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Kółko myszy (w dół)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="158"/>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="159"/>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="160"/>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewaction.py" line="161"/>
@@ -1144,17 +1144,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewcontrols.py" line="174"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Sterowanie</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewcontrols.py" line="195"/>
         <source>Edit Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj przyciski</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldview/viewcontrols.py" line="195"/>
         <source>Done Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakończ edycję</translation>
     </message>
 </context>
 <context>
@@ -1162,67 +1162,67 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="31"/>
         <source>World Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info o świecie</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="39"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>Przetrwanie</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="39"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreatywny</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="39"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygodowy</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>Obserwator</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Peaceful</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokojowy</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Łatwy</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="40"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="41"/>
         <source>Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>Trudny</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="42"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślny</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="43"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Płaski</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="44"/>
         <source>Large Biomes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wielkie Biomy</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="45"/>
         <source>Amplified</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerzony</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="46"/>
@@ -1232,7 +1232,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="47"/>
         <source>Debug All Block States</source>
-        <translation type="unfinished"></translation>
+        <translation>Debuguj wszystkie stany bloków</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="143"/>
@@ -1252,17 +1252,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="190"/>
         <source>Change Generator Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień opcje generatora</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="200"/>
         <source>Change Default Gamemode</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień domyślny tryb gry</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="210"/>
         <source>Change Difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień poziom trudności</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="226"/>
@@ -1272,7 +1272,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="236"/>
         <source>Change Spawn Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień punkt spawn'u</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/panels/worldinfo.py" line="247"/>
@@ -1300,12 +1300,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/worldlist.py" line="270"/>
         <source>(No resource pack)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Brak paczki zasobów)</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/worldlist.py" line="288"/>
         <source>Choose Saves Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz folder światów</translation>
     </message>
 </context>
 <context>
@@ -1318,27 +1318,27 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="20"/>
         <source>Blocks Found:</source>
-        <translation type="unfinished"></translation>
+        <translation>Znalezione bloki:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="30"/>
         <source>Entities Found:</source>
-        <translation type="unfinished"></translation>
+        <translation>Znalezione byty:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="42"/>
         <source>Export txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj plik .txt</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="49"/>
         <source>Export csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj plik .csv</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/analyze.ui" line="69"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -1346,22 +1346,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="20"/>
         <source>Choose Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz bloki</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="28"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="145"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/widgets/block_picker_multiple.ui" line="152"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1374,7 +1374,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/blocktype_list.ui" line="20"/>
         <source>Known Blocks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Znane bloki:</translation>
     </message>
 </context>
 <context>
@@ -1382,22 +1382,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="38"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="55"/>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="72"/>
         <source>Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Długość:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="89"/>
@@ -1407,7 +1407,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="106"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb:</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/editortools/brush.ui" line="125"/>
@@ -1420,12 +1420,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="28"/>
         <source>Clone Selected Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Sklonuj zaznaczony obiekt</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="46"/>
         <source>Move Cloned Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Przesuń sklonowany obiekt</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/editortools/clone.py" line="90"/>
@@ -1624,22 +1624,22 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="113"/>
         <source>Copy to PasteBin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj do Schowka</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="120"/>
         <source>Restart MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom ponownie MCEdit</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="127"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjdź</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/error_dialog.ui" line="134"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontynuuj</translation>
     </message>
 </context>
 <context>
@@ -1657,12 +1657,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/fill.ui" line="56"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/fill.ui" line="63"/>
         <source>Fill</source>
-        <translation type="unfinished">Wypełnij</translation>
+        <translation>Wypełnij</translation>
     </message>
 </context>
 <context>
@@ -2094,17 +2094,17 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="395"/>
         <source>In Selection</source>
-        <translation type="unfinished">Wybrane</translation>
+        <translation>Wybrane</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="408"/>
         <source>Find</source>
-        <translation type="unfinished">Znajdź</translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace_nbt.ui" line="14"/>
         <source>Find/Replace NBT Data</source>
-        <translation type="unfinished">Znajdź/Zamień NBT Data</translation>
+        <translation>Znajdź/Zamień NBT Data</translation>
     </message>
 </context>
 <context>
@@ -2112,12 +2112,12 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="14"/>
         <source>Find and Replace...</source>
-        <translation type="unfinished">Znajdź i zamień...</translation>
+        <translation>Znajdź i zamień...</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="24"/>
         <source>Find Blocks</source>
-        <translation type="unfinished">Znajdź Bloki</translation>
+        <translation>Znajdź Bloki</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="29"/>
@@ -2127,7 +2127,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="34"/>
         <source>Find/Replace Items</source>
-        <translation type="unfinished">Znajdź/Zamień Przedmioty</translation>
+        <translation>Znajdź/Zamień Przedmioty</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/find_replace.ui" line="39"/>
@@ -2175,7 +2175,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/import_map.ui" line="126"/>
         <source>Import</source>
-        <translation type="unfinished">Importuj</translation>
+        <translation>Importuj</translation>
     </message>
 </context>
 <context>
@@ -2398,7 +2398,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="507"/>
         <source>Chunk</source>
-        <translation type="unfinished">Chunk</translation>
+        <translation>Chunk</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/inspector.ui" line="515"/>
@@ -2481,7 +2481,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="79"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="216"/>
@@ -2496,7 +2496,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="119"/>
         <source>Select</source>
-        <translation type="unfinished">Zaznacz</translation>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/minecraft_installs.ui" line="126"/>
@@ -2817,7 +2817,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/dialogs/plugins.ui" line="66"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3139,7 +3139,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="261"/>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="284"/>
