@@ -2996,7 +2996,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="112"/>
         <source>Generator</source>
-        <translation>触发</translation>
+        <translation>觸發</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="120"/>
@@ -3056,7 +3056,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="372"/>
         <source>Spawn</source>
-        <translation>蛋</translation>
+        <translation>生怪蛋</translation>
     </message>
     <message>
         <location filename="mcedit2/src/mcedit2/ui/panels/worldinfo.ui" line="380"/>
@@ -3159,7 +3159,7 @@
     <message>
         <location filename="mcedit2/src/mcedit2/ui/world_list.ui" line="312"/>
         <source>Show world list</source>
-        <translation>显示世界名单</translation>
+        <translation>顯示世界清單</translation>
     </message>
 </context>
 </TS>
